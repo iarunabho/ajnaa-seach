@@ -1,0 +1,26 @@
+[
+  {
+    "id": "1",
+    "product_name": "Peacock Kundan Earrings",
+    "product_cost": "950",
+    "profile_image": "https://www.ajnaajewels.com/media/catalog/product/cache/small_image/300x400/beff4985b56e3afdbeabfc89641a4582/l/e/ler622.jpg"
+  },
+  {
+    "id": "2",
+    "product_name": "Pastel Gajra Earrings",
+    "product_cost": "3100",
+    "profile_image": "https://www.ajnaajewels.com/media/catalog/product/cache/small_image/300x400/beff4985b56e3afdbeabfc89641a4582/l/e/ler623.jpg"
+  },
+  {
+    "id": "3",
+    "product_name": "Ethnic Kundan Choker",
+    "product_cost": "10500",
+    "profile_image": "https://www.ajnaajewels.com/media/catalog/product/cache/small_image/300x400/beff4985b56e3afdbeabfc89641a4582/l/n/ln289.jpg"
+  },
+  {
+    "id": "4",
+    "product_name": "Emerald Lunar Choker",
+    "product_cost": "9500",
+    "profile_image": "https://www.ajnaajewels.com/media/catalog/product/cache/small_image/300x400/beff4985b56e3afdbeabfc89641a4582/l/n/ln290_1.jpg"
+  }
+]
