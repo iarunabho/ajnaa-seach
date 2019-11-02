@@ -2,6 +2,8 @@
 <html lang="en">
   <head>
     <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
     <link
       rel="stylesheet"
       href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css"
@@ -11,9 +13,15 @@
     <title>Ajnaa Live Search</title>
     <title>Ajnaa Product Search</title>
   </head>
+  <style>
+    #p1 {
+      word-wrap: break-word;
+    }
+  </style>
   <body>
-    <div class="container" style="padding:50px 250px;">
+    <div class="container">
       <h1>Ajnaa Live Search</h1>
+
       <form role="form">
         <div class="form-group">
           <input
@@ -24,12 +32,11 @@
           />
         </div>
       </form>
+
       <div id="filter-records"></div>
     </div>
     <script>
       $.getJSON("data.json", function(data) {
-        console.log(data);
-
         $("#txt-search").keyup(function() {
           var searchField = $(this).val();
           if (searchField === "") {
@@ -52,10 +59,10 @@
                 '" alt="' +
                 val.product_name +
                 '" /></div>';
-              output += '<div class="col-md-7">';
+              output += '<div class="col-md-9">';
               output += "<h5>" + val.product_name + "</h5>";
               output += "<p>" + "Rs " + val.product_cost + "</p>";
-              output += "<p>" + val.product_url + "</p>";
+              output += '<p id="p1">' + val.product_url + "</p>";
               output += "</div>";
               output += "</div>";
               if (count % 2 == 0) {
