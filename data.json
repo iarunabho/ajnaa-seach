@@ -1,26 +1,3470 @@
 [
   {
     "id": "1",
-    "product_name": "Peacock Kundan Earrings",
-    "product_cost": "950",
-    "profile_image": "https://www.ajnaajewels.com/media/catalog/product/cache/small_image/300x400/beff4985b56e3afdbeabfc89641a4582/l/e/ler622.jpg"
+    "product_name": "Olive Seed Chandbaalis With Red Drops",
+    "profile_image": "https://www.ajnaajewels.com/media/catalog/product/i/m/img_569.jpg",
+    "product_cost": "3800"
   },
   {
     "id": "2",
-    "product_name": "Pastel Gajra Earrings",
-    "product_cost": "3100",
-    "profile_image": "https://www.ajnaajewels.com/media/catalog/product/cache/small_image/300x400/beff4985b56e3afdbeabfc89641a4582/l/e/ler623.jpg"
+    "product_name": "Rose Gold Baroque Lariat",
+    "profile_image": "https://www.ajnaajewels.com/media/catalog/product/l/5/l5_1.jpg",
+    "product_cost": "2700"
   },
   {
     "id": "3",
-    "product_name": "Ethnic Kundan Choker",
-    "product_cost": "10500",
-    "profile_image": "https://www.ajnaajewels.com/media/catalog/product/cache/small_image/300x400/beff4985b56e3afdbeabfc89641a4582/l/n/ln289.jpg"
+    "product_name": "Shades of Black Necklace",
+    "profile_image": "https://www.ajnaajewels.com/media/catalog/product/l/8/l8_1.jpg",
+    "product_cost": "1800"
   },
   {
     "id": "4",
+    "product_name": "Engraved Domes Kada",
+    "profile_image": "https://www.ajnaajewels.com/media/catalog/product/l/b/lb101n.jpg",
+    "product_cost": "1300"
+  },
+  {
+    "id": "5",
+    "product_name": "Gajra Kada",
+    "profile_image": "https://www.ajnaajewels.com/media/catalog/product/l/b/lb105_1_5.jpg",
+    "product_cost": "2500"
+  },
+  {
+    "id": "6",
+    "product_name": "Bageecha Kada",
+    "profile_image": "https://www.ajnaajewels.com/media/catalog/product/l/b/lb106_4.jpg",
+    "product_cost": "1200"
+  },
+  {
+    "id": "7",
+    "product_name": "Oval Kundan Bangles",
+    "profile_image": "https://www.ajnaajewels.com/media/catalog/product/l/b/lb107_3.jpg",
+    "product_cost": "1200"
+  },
+  {
+    "id": "8",
+    "product_name": "Purple Channel Bangles",
+    "profile_image": "https://www.ajnaajewels.com/media/catalog/product/l/b/lb109_3.jpg",
+    "product_cost": "1200"
+  },
+  {
+    "id": "9",
+    "product_name": "Pink Zircon Channel Setting Bangle",
+    "profile_image": "https://www.ajnaajewels.com/media/catalog/product/l/b/lb11_1_4.jpg",
+    "product_cost": "1750"
+  },
+  {
+    "id": "10",
+    "product_name": "Squared And Round Kundan Bangle",
+    "profile_image": "https://www.ajnaajewels.com/media/catalog/product/l/b/lb-110.jpg",
+    "product_cost": "1050"
+  },
+  {
+    "id": "11",
+    "product_name": "Geometric Kundan Bangle",
+    "profile_image": "https://www.ajnaajewels.com/media/catalog/product/l/b/lb111_1_3.jpg",
+    "product_cost": "1100"
+  },
+  {
+    "id": "12",
+    "product_name": "Ash Zircon Bracelet",
+    "profile_image": "https://www.ajnaajewels.com/media/catalog/product/l/b/lb114_2.jpg",
+    "product_cost": "1700"
+  },
+  {
+    "id": "13",
+    "product_name": "18k Plated Hamza Bracelet",
+    "profile_image": "https://www.ajnaajewels.com/media/catalog/product/l/b/lb115_3.jpg",
+    "product_cost": "850"
+  },
+  {
+    "id": "14",
+    "product_name": "Dumroo Bead Kada",
+    "profile_image": "https://www.ajnaajewels.com/media/catalog/product/l/b/lb117.jpg",
+    "product_cost": "2400"
+  },
+  {
+    "id": "15",
+    "product_name": "Gold Signal Kada",
+    "profile_image": "https://www.ajnaajewels.com/media/catalog/product/l/b/lb118_2.jpg",
+    "product_cost": "1700"
+  },
+  {
+    "id": "16",
+    "product_name": "Red Bud Kada",
+    "profile_image": "https://www.ajnaajewels.com/media/catalog/product/l/b/lb119_2.jpg",
+    "product_cost": "1600"
+  },
+  {
+    "id": "17",
+    "product_name": "Rust regal kada",
+    "profile_image": "https://www.ajnaajewels.com/media/catalog/product/l/b/lb121_5.jpg",
+    "product_cost": "3200"
+  },
+  {
+    "id": "18",
+    "product_name": "Red Channel Kada",
+    "profile_image": "https://www.ajnaajewels.com/media/catalog/product/l/b/lb122_6_1.jpg",
+    "product_cost": "2800"
+  },
+  {
+    "id": "19",
+    "product_name": "Red Eye Kada",
+    "profile_image": "https://www.ajnaajewels.com/media/catalog/product/l/b/lb123_1.jpg",
+    "product_cost": "1250"
+  },
+  {
+    "id": "20",
+    "product_name": "Viola Bracelet",
+    "profile_image": "https://www.ajnaajewels.com/media/catalog/product/l/b/lb124_2_1.jpg",
+    "product_cost": "650"
+  },
+  {
+    "id": "21",
+    "product_name": "Red Rounds Bracelet",
+    "profile_image": "https://www.ajnaajewels.com/media/catalog/product/l/b/lb125.jpg",
+    "product_cost": "700"
+  },
+  {
+    "id": "22",
+    "product_name": "Black Meena Regal Kada",
+    "profile_image": "https://www.ajnaajewels.com/media/catalog/product/l/b/lb126_1.jpg",
+    "product_cost": "2800"
+  },
+  {
+    "id": "23",
+    "product_name": "White Lens Kada",
+    "profile_image": "https://www.ajnaajewels.com/media/catalog/product/l/b/lb129_1_.jpg",
+    "product_cost": "1800"
+  },
+  {
+    "id": "24",
+    "product_name": "Golden Oval Kundan Bangle",
+    "profile_image": "https://www.ajnaajewels.com/media/catalog/product/l/b/lb-13.jpg",
+    "product_cost": "1750"
+  },
+  {
+    "id": "25",
+    "product_name": "Gold Fall kada",
+    "profile_image": "https://www.ajnaajewels.com/media/catalog/product/l/b/lb133_1_.jpg",
+    "product_cost": "1800"
+  },
+  {
+    "id": "26",
+    "product_name": "Coral Scattered Bracelet",
+    "profile_image": "https://www.ajnaajewels.com/media/catalog/product/l/b/lb134_1_1.jpg",
+    "product_cost": "1350"
+  },
+  {
+    "id": "27",
+    "product_name": "Pink Vibes Bracelet",
+    "profile_image": "https://www.ajnaajewels.com/media/catalog/product/l/b/lb135_1.jpg",
+    "product_cost": "1200"
+  },
+  {
+    "id": "28",
+    "product_name": "Rainforest Bracelet",
+    "profile_image": "https://www.ajnaajewels.com/media/catalog/product/l/b/lb136.jpg",
+    "product_cost": "1350"
+  },
+  {
+    "id": "29",
+    "product_name": "Butterfly Garden Bracelet",
+    "profile_image": "https://www.ajnaajewels.com/media/catalog/product/l/b/lb137_1.jpg",
+    "product_cost": "1350"
+  },
+  {
+    "id": "30",
+    "product_name": "Summer Cream Bracelet",
+    "profile_image": "https://www.ajnaajewels.com/media/catalog/product/l/b/lb138.jpg",
+    "product_cost": "1750"
+  },
+  {
+    "id": "31",
+    "product_name": "Polka Plant Kundan Bangles",
+    "profile_image": "https://www.ajnaajewels.com/media/catalog/product/l/b/lb139.jpg",
+    "product_cost": "2200"
+  },
+  {
+    "id": "32",
+    "product_name": "Zircon Channel Setting Bangles",
+    "profile_image": "https://www.ajnaajewels.com/media/catalog/product/l/b/lb16n.jpg",
+    "product_cost": "1400"
+  },
+  {
+    "id": "33",
+    "product_name": "Brown Meena Regal Kada",
+    "profile_image": "https://www.ajnaajewels.com/media/catalog/product/l/b/lb23.jpg",
+    "product_cost": "2800"
+  },
+  {
+    "id": "34",
+    "product_name": "Green Meena Regal Kada",
+    "profile_image": "https://www.ajnaajewels.com/media/catalog/product/l/b/lb24.jpg",
+    "product_cost": "2800"
+  },
+  {
+    "id": "35",
+    "product_name": "Square Flower Bracelet",
+    "profile_image": "https://www.ajnaajewels.com/media/catalog/product/l/b/lb25_2.jpg",
+    "product_cost": "2800"
+  },
+  {
+    "id": "36",
+    "product_name": "Blue meena kada",
+    "profile_image": "https://www.ajnaajewels.com/media/catalog/product/l/b/lb26_1n.jpg",
+    "product_cost": "4600"
+  },
+  {
+    "id": "37",
+    "product_name": "Navratna Bauble Bracelet",
+    "profile_image": "https://www.ajnaajewels.com/media/catalog/product/l/b/lb29n.jpg",
+    "product_cost": "5050"
+  },
+  {
+    "id": "38",
+    "product_name": "Kundan and Zircon Details Bracelet",
+    "profile_image": "https://www.ajnaajewels.com/media/catalog/product/l/b/lb34_1_result.jpg",
+    "product_cost": "2500"
+  },
+  {
+    "id": "39",
+    "product_name": "Rose pink ash bracelet",
+    "profile_image": "https://www.ajnaajewels.com/media/catalog/product/l/b/lb39_2.jpg",
+    "product_cost": "850"
+  },
+  {
+    "id": "40",
+    "product_name": "Round Cut Zircon Bangles",
+    "profile_image": "https://www.ajnaajewels.com/media/catalog/product/l/b/lb4_1_2.jpg",
+    "product_cost": "1750"
+  },
+  {
+    "id": "41",
+    "product_name": "Silver Rose Bracelet",
+    "profile_image": "https://www.ajnaajewels.com/media/catalog/product/l/b/lb40_1_2.jpg",
+    "product_cost": "1050"
+  },
+  {
+    "id": "42",
+    "product_name": "Druzy Love Bracelet",
+    "profile_image": "https://www.ajnaajewels.com/media/catalog/product/l/b/lb41_2.jpg",
+    "product_cost": "900"
+  },
+  {
+    "id": "43",
+    "product_name": "Double Quartz Bracelet",
+    "profile_image": "https://www.ajnaajewels.com/media/catalog/product/l/b/lb43_2.jpg",
+    "product_cost": "1750"
+  },
+  {
+    "id": "44",
+    "product_name": "Triple Quartz Bracelet",
+    "profile_image": "https://www.ajnaajewels.com/media/catalog/product/l/b/lb44_2.jpg",
+    "product_cost": "1750"
+  },
+  {
+    "id": "45",
+    "product_name": "Meadow bracelet",
+    "profile_image": "https://www.ajnaajewels.com/media/catalog/product/l/b/lb45_2.jpg",
+    "product_cost": "1750"
+  },
+  {
+    "id": "46",
+    "product_name": "Spring Fields Bracelet",
+    "profile_image": "https://www.ajnaajewels.com/media/catalog/product/l/b/lb46_2.jpg",
+    "product_cost": "1750"
+  },
+  {
+    "id": "47",
+    "product_name": "Jardin Bracelet",
+    "profile_image": "https://www.ajnaajewels.com/media/catalog/product/l/b/lb50_1.jpg",
+    "product_cost": "1750"
+  },
+  {
+    "id": "48",
+    "product_name": "Black Glitter Zircon Bangles",
+    "profile_image": "https://www.ajnaajewels.com/media/catalog/product/l/b/lb-51.jpg",
+    "product_cost": "1200"
+  },
+  {
+    "id": "49",
+    "product_name": "Gold Wave Bangle",
+    "profile_image": "https://www.ajnaajewels.com/media/catalog/product/l/b/lb56_1_2result_1.jpg",
+    "product_cost": "1700"
+  },
+  {
+    "id": "50",
+    "product_name": "Zircon Elegance Bangles",
+    "profile_image": "https://www.ajnaajewels.com/media/catalog/product/l/b/lb58_3.jpg",
+    "product_cost": "1400"
+  },
+  {
+    "id": "51",
+    "product_name": "Red and Green Drops Kada",
+    "profile_image": "https://www.ajnaajewels.com/media/catalog/product/l/b/lb61_4.jpg",
+    "product_cost": "1400"
+  },
+  {
+    "id": "52",
+    "product_name": "Vineyard kada",
+    "profile_image": "https://www.ajnaajewels.com/media/catalog/product/l/b/lb65.jpg",
+    "product_cost": "1700"
+  },
+  {
+    "id": "53",
+    "product_name": "Peacock's welcome kada",
+    "profile_image": "https://www.ajnaajewels.com/media/catalog/product/l/b/lb71n.jpg",
+    "product_cost": "2200"
+  },
+  {
+    "id": "54",
+    "product_name": "Wheel bead kada",
+    "profile_image": "https://www.ajnaajewels.com/media/catalog/product/l/b/lb74.jpg",
+    "product_cost": "2100"
+  },
+  {
+    "id": "55",
+    "product_name": "18k Plated Classic Tennis Bracelet",
+    "profile_image": "https://www.ajnaajewels.com/media/catalog/product/l/b/lb75_4.jpg",
+    "product_cost": "950"
+  },
+  {
+    "id": "56",
+    "product_name": "18k Plated Tear Drop Bracelet",
+    "profile_image": "https://www.ajnaajewels.com/media/catalog/product/l/b/lb76_2.jpg",
+    "product_cost": "700"
+  },
+  {
+    "id": "57",
+    "product_name": "18k Plated Infinity Bracelet",
+    "profile_image": "https://www.ajnaajewels.com/media/catalog/product/l/b/lb78.jpg",
+    "product_cost": "750"
+  },
+  {
+    "id": "58",
+    "product_name": "18k Plated Mini Classic Tennis Bracelet",
+    "profile_image": "https://www.ajnaajewels.com/media/catalog/product/l/b/lb79_6_result.jpg",
+    "product_cost": "700"
+  },
+  {
+    "id": "59",
+    "product_name": "18k Plated Disco Ball Bracelet",
+    "profile_image": "https://www.ajnaajewels.com/media/catalog/product/l/b/lb80.jpg",
+    "product_cost": "700"
+  },
+  {
+    "id": "60",
+    "product_name": "18k Plated Clover Bracelet",
+    "profile_image": "https://www.ajnaajewels.com/media/catalog/product/l/b/lb81.jpg",
+    "product_cost": "750"
+  },
+  {
+    "id": "61",
+    "product_name": "18k Plated Square line Bracelet",
+    "profile_image": "https://www.ajnaajewels.com/media/catalog/product/l/b/lb82_4.jpg",
+    "product_cost": "750"
+  },
+  {
+    "id": "62",
+    "product_name": "18k Plated Snow Flake Bracelet",
+    "profile_image": "https://www.ajnaajewels.com/media/catalog/product/l/b/lb83_4.jpg",
+    "product_cost": "750"
+  },
+  {
+    "id": "63",
+    "product_name": "18k Plated Rounds Bracelet",
+    "profile_image": "https://www.ajnaajewels.com/media/catalog/product/l/b/lb84.jpg",
+    "product_cost": "700"
+  },
+  {
+    "id": "64",
+    "product_name": "18k Plated Baguette Bracelet",
+    "profile_image": "https://www.ajnaajewels.com/media/catalog/product/l/b/lb85.jpg",
+    "product_cost": "750"
+  },
+  {
+    "id": "65",
+    "product_name": "Dotted Beads Gold Kada",
+    "profile_image": "https://www.ajnaajewels.com/media/catalog/product/l/b/lb87_4.jpg",
+    "product_cost": "2500"
+  },
+  {
+    "id": "66",
+    "product_name": "Black Frames Bangle",
+    "profile_image": "https://www.ajnaajewels.com/media/catalog/product/l/b/lb89_5.jpg",
+    "product_cost": "1200"
+  },
+  {
+    "id": "67",
+    "product_name": "Jewel Tones kada",
+    "profile_image": "https://www.ajnaajewels.com/media/catalog/product/l/b/lb90_3.jpg",
+    "product_cost": "1700"
+  },
+  {
+    "id": "68",
+    "product_name": "Chatai Kada",
+    "profile_image": "https://www.ajnaajewels.com/media/catalog/product/l/b/lb91_4.jpg",
+    "product_cost": "2500"
+  },
+  {
+    "id": "69",
+    "product_name": "Rose Cuff Bracelet",
+    "profile_image": "https://www.ajnaajewels.com/media/catalog/product/l/b/lb92_1_4.jpg",
+    "product_cost": "1800"
+  },
+  {
+    "id": "70",
+    "product_name": "Gold Mesh Kada",
+    "profile_image": "https://www.ajnaajewels.com/media/catalog/product/l/b/lb96n.jpg",
+    "product_cost": "1600"
+  },
+  {
+    "id": "71",
+    "product_name": "Orange Lotus Earrings",
+    "profile_image": "https://www.ajnaajewels.com/media/catalog/product/l/e/ler105_1.jpg",
+    "product_cost": "1400"
+  },
+  {
+    "id": "72",
+    "product_name": "Baroque Shoulder dusters",
+    "profile_image": "https://www.ajnaajewels.com/media/catalog/product/l/e/ler130_1.jpg",
+    "product_cost": "1200"
+  },
+  {
+    "id": "73",
+    "product_name": "Blue Coral Danglers",
+    "profile_image": "https://www.ajnaajewels.com/media/catalog/product/l/e/ler131.jpg",
+    "product_cost": "1950"
+  },
+  {
+    "id": "74",
+    "product_name": "Baroque Zircon Mini Danglers",
+    "profile_image": "https://www.ajnaajewels.com/media/catalog/product/l/e/ler135.jpg",
+    "product_cost": "750"
+  },
+  {
+    "id": "75",
+    "product_name": "Coral Zircon Mini Danglers",
+    "profile_image": "https://www.ajnaajewels.com/media/catalog/product/l/e/ler137_1.jpg",
+    "product_cost": "750"
+  },
+  {
+    "id": "76",
+    "product_name": "Smoky Zircon Mini Danglers",
+    "profile_image": "https://www.ajnaajewels.com/media/catalog/product/l/e/ler-138.jpg",
+    "product_cost": "750"
+  },
+  {
+    "id": "77",
+    "product_name": "Violet Tassel Shoulder Dusters",
+    "profile_image": "https://www.ajnaajewels.com/media/catalog/product/l/e/ler139_1.jpg",
+    "product_cost": "1500"
+  },
+  {
+    "id": "78",
+    "product_name": "Black Tassel Shoulder Dusters",
+    "profile_image": "https://www.ajnaajewels.com/media/catalog/product/l/e/ler140_1.jpg",
+    "product_cost": "850"
+  },
+  {
+    "id": "79",
+    "product_name": "Jungle Green Pearl Danglers",
+    "profile_image": "https://www.ajnaajewels.com/media/catalog/product/l/e/ler142_1.jpg",
+    "product_cost": "2450"
+  },
+  {
+    "id": "80",
+    "product_name": "Royal Blue And Green Earrings",
+    "profile_image": "https://www.ajnaajewels.com/media/catalog/product/l/e/ler145n.jpg",
+    "product_cost": "1800"
+  },
+  {
+    "id": "81",
+    "product_name": "Gulabi Kundan Earrings",
+    "profile_image": "https://www.ajnaajewels.com/media/catalog/product/l/e/ler147n.jpg",
+    "product_cost": "2950"
+  },
+  {
+    "id": "82",
+    "product_name": "Maroon Flower Mini Danglers",
+    "profile_image": "https://www.ajnaajewels.com/media/catalog/product/l/e/ler151_1.jpg",
+    "product_cost": "1800"
+  },
+  {
+    "id": "83",
+    "product_name": "Royal and Sea shades danglers",
+    "profile_image": "https://www.ajnaajewels.com/media/catalog/product/l/e/ler153_1.jpg",
+    "product_cost": "1800"
+  },
+  {
+    "id": "84",
+    "product_name": "Ruby Leaves Earrings",
+    "profile_image": "https://www.ajnaajewels.com/media/catalog/product/l/e/ler168.jpg",
+    "product_cost": "1600"
+  },
+  {
+    "id": "85",
+    "product_name": "Emerald Leaves Earrings",
+    "profile_image": "https://www.ajnaajewels.com/media/catalog/product/l/e/ler169_1.jpg",
+    "product_cost": "1600"
+  },
+  {
+    "id": "86",
+    "product_name": "Marroon & Pink Studs",
+    "profile_image": "https://www.ajnaajewels.com/media/catalog/product/l/e/ler178.jpg",
+    "product_cost": "2100"
+  },
+  {
+    "id": "87",
+    "product_name": "Dark Forest Studs",
+    "profile_image": "https://www.ajnaajewels.com/media/catalog/product/l/e/ler181.jpg",
+    "product_cost": "1850"
+  },
+  {
+    "id": "88",
+    "product_name": "Dark Grey Rose Quartz Studs",
+    "profile_image": "https://www.ajnaajewels.com/media/catalog/product/l/e/ler185_2.jpg",
+    "product_cost": "1850"
+  },
+  {
+    "id": "89",
+    "product_name": "Pastel Yellow Green Drop Danglers",
+    "profile_image": "https://www.ajnaajewels.com/media/catalog/product/l/e/ler186_1.jpg",
+    "product_cost": "2250"
+  },
+  {
+    "id": "90",
+    "product_name": "Kamal Jhumkis",
+    "profile_image": "https://www.ajnaajewels.com/media/catalog/product/l/e/ler189n.jpg",
+    "product_cost": "2550"
+  },
+  {
+    "id": "91",
+    "product_name": "Kundan Dumroo Bead Earring",
+    "profile_image": "https://www.ajnaajewels.com/media/catalog/product/l/e/ler195n.jpg",
+    "product_cost": "1850"
+  },
+  {
+    "id": "92",
+    "product_name": "Emerald Rocks Red Chaandbalis",
+    "profile_image": "https://www.ajnaajewels.com/media/catalog/product/l/e/ler208.jpg",
+    "product_cost": "2500"
+  },
+  {
+    "id": "93",
+    "product_name": "Majestic Green Chaandbalis",
+    "profile_image": "https://www.ajnaajewels.com/media/catalog/product/l/e/ler209n.jpg",
+    "product_cost": "2500"
+  },
+  {
+    "id": "94",
+    "product_name": "Rose And Olives Drops",
+    "profile_image": "https://www.ajnaajewels.com/media/catalog/product/l/e/ler214_2.jpg",
+    "product_cost": "1950"
+  },
+  {
+    "id": "95",
+    "product_name": "Majestic Pink Drop Chandbalis",
+    "profile_image": "https://www.ajnaajewels.com/media/catalog/product/l/e/ler219_1.jpg",
+    "product_cost": "5500"
+  },
+  {
+    "id": "96",
+    "product_name": "Chaandni Earrings",
+    "profile_image": "https://www.ajnaajewels.com/media/catalog/product/l/e/ler220.jpg",
+    "product_cost": "2500"
+  },
+  {
+    "id": "97",
+    "product_name": "Pale Blue Meena Kundan Earrings",
+    "profile_image": "https://www.ajnaajewels.com/media/catalog/product/l/e/ler221_1.jpg",
+    "product_cost": "1800"
+  },
+  {
+    "id": "98",
+    "product_name": "Anarkali Chandbalis",
+    "profile_image": "https://www.ajnaajewels.com/media/catalog/product/l/e/ler223.jpg",
+    "product_cost": "5800"
+  },
+  {
+    "id": "99",
+    "product_name": "Blue Coral Chaandbalis",
+    "profile_image": "https://www.ajnaajewels.com/media/catalog/product/l/e/ler224_1.jpg",
+    "product_cost": "2950"
+  },
+  {
+    "id": "100",
+    "product_name": "Kundan Chand Jhumkis",
+    "profile_image": "https://www.ajnaajewels.com/media/catalog/product/l/e/ler231_1.jpg",
+    "product_cost": "2850"
+  },
+  {
+    "id": "101",
+    "product_name": "Ethnic pride earrings",
+    "profile_image": "https://www.ajnaajewels.com/media/catalog/product/l/e/ler-237_1.jpg",
+    "product_cost": "1650"
+  },
+  {
+    "id": "102",
+    "product_name": "Feroza Flower Earrings",
+    "profile_image": "https://www.ajnaajewels.com/media/catalog/product/l/e/ler238_3.jpg",
+    "product_cost": "1800"
+  },
+  {
+    "id": "103",
+    "product_name": "Emerald Lunar Earrings",
+    "profile_image": "https://www.ajnaajewels.com/media/catalog/product/l/e/ler239_3.jpg",
+    "product_cost": "750"
+  },
+  {
+    "id": "104",
+    "product_name": "Green and Feroza hints chandbaalis",
+    "profile_image": "https://www.ajnaajewels.com/media/catalog/product/l/e/ler242n.jpg",
+    "product_cost": "2500"
+  },
+  {
+    "id": "105",
+    "product_name": "Bright Little Hexes Earrings",
+    "profile_image": "https://www.ajnaajewels.com/media/catalog/product/l/e/ler244_1.jpg",
+    "product_cost": "1800"
+  },
+  {
+    "id": "106",
+    "product_name": "Stoned Drops Earrings",
+    "profile_image": "https://www.ajnaajewels.com/media/catalog/product/l/e/ler248_1.jpg",
+    "product_cost": "1500"
+  },
+  {
+    "id": "107",
+    "product_name": "Coral At The Sea Earrings",
+    "profile_image": "https://www.ajnaajewels.com/media/catalog/product/l/e/ler249_1.jpg",
+    "product_cost": "950"
+  },
+  {
+    "id": "108",
+    "product_name": "Pink Lotus Earrings",
+    "profile_image": "https://www.ajnaajewels.com/media/catalog/product/l/e/ler250_1.jpg",
+    "product_cost": "2500"
+  },
+  {
+    "id": "109",
+    "product_name": "Silver Skies Earrings",
+    "profile_image": "https://www.ajnaajewels.com/media/catalog/product/l/e/ler252.jpg",
+    "product_cost": "800"
+  },
+  {
+    "id": "110",
+    "product_name": "Rose And Jade Earrings",
+    "profile_image": "https://www.ajnaajewels.com/media/catalog/product/l/e/ler256_1.jpg",
+    "product_cost": "500"
+  },
+  {
+    "id": "111",
+    "product_name": "Rose Pink Ash Earrings",
+    "profile_image": "https://www.ajnaajewels.com/media/catalog/product/l/e/ler257_1.jpg",
+    "product_cost": "500"
+  },
+  {
+    "id": "112",
+    "product_name": "Shudh desi romance earrings",
+    "profile_image": "https://www.ajnaajewels.com/media/catalog/product/l/e/ler258_1.jpg",
+    "product_cost": "1500"
+  },
+  {
+    "id": "113",
+    "product_name": "Pink & Green Contemporary Drop Earrings",
+    "profile_image": "https://www.ajnaajewels.com/media/catalog/product/l/e/ler25n.jpg",
+    "product_cost": "3500"
+  },
+  {
+    "id": "114",
+    "product_name": "Lines Of Love Earrings",
+    "profile_image": "https://www.ajnaajewels.com/media/catalog/product/l/e/ler260_1.jpg",
+    "product_cost": "750"
+  },
+  {
+    "id": "115",
+    "product_name": "Ghungroo Chandelier Earrings",
+    "profile_image": "https://www.ajnaajewels.com/media/catalog/product/l/e/ler262_1.jpg",
+    "product_cost": "750"
+  },
+  {
+    "id": "116",
+    "product_name": "Dangling Hearts Earrings",
+    "profile_image": "https://www.ajnaajewels.com/media/catalog/product/l/e/ler265_1.jpg",
+    "product_cost": "650"
+  },
+  {
+    "id": "117",
+    "product_name": "Aqua Drop Earrings",
+    "profile_image": "https://www.ajnaajewels.com/media/catalog/product/l/e/ler-274.jpg",
+    "product_cost": "850"
+  },
+  {
+    "id": "118",
+    "product_name": "Green passion earrings",
+    "profile_image": "https://www.ajnaajewels.com/media/catalog/product/l/e/ler277_1.jpg",
+    "product_cost": "6000"
+  },
+  {
+    "id": "119",
+    "product_name": "Pastel Blue Kundan Drops",
+    "profile_image": "https://www.ajnaajewels.com/media/catalog/product/l/e/ler280_1.jpg",
+    "product_cost": "1200"
+  },
+  {
+    "id": "120",
+    "product_name": "Coral Hints Chandbaalis",
+    "profile_image": "https://www.ajnaajewels.com/media/catalog/product/l/e/ler281_1.jpg",
+    "product_cost": "2500"
+  },
+  {
+    "id": "121",
+    "product_name": "Sparkling Zircon Blue Round Danglers",
+    "profile_image": "https://www.ajnaajewels.com/media/catalog/product/l/e/ler284.jpg",
+    "product_cost": "1500"
+  },
+  {
+    "id": "122",
+    "product_name": "Sparkling Green Zircon Chandbalis",
+    "profile_image": "https://www.ajnaajewels.com/media/catalog/product/l/e/ler285_2.jpg",
+    "product_cost": "2150"
+  },
+  {
+    "id": "123",
+    "product_name": "Emerald Rocks Blue Chandbaalis",
+    "profile_image": "https://www.ajnaajewels.com/media/catalog/product/l/e/ler290_1.jpg",
+    "product_cost": "2900"
+  },
+  {
+    "id": "124",
+    "product_name": "Golden Ice Earrings",
+    "profile_image": "https://www.ajnaajewels.com/media/catalog/product/l/e/ler292_1.jpg",
+    "product_cost": "1950"
+  },
+  {
+    "id": "125",
+    "product_name": "Red And Pink Hints Chandbaalis",
+    "profile_image": "https://www.ajnaajewels.com/media/catalog/product/l/e/ler293_1.jpg",
+    "product_cost": "2500"
+  },
+  {
+    "id": "126",
+    "product_name": "Guldasta Baalis",
+    "profile_image": "https://www.ajnaajewels.com/media/catalog/product/l/e/ler297.jpg",
+    "product_cost": "4800"
+  },
+  {
+    "id": "127",
+    "product_name": "Pink Lemonade Earrings",
+    "profile_image": "https://www.ajnaajewels.com/media/catalog/product/l/e/ler303_3.jpg",
+    "product_cost": "1050"
+  },
+  {
+    "id": "128",
+    "product_name": "Silver Funk Danglers",
+    "profile_image": "https://www.ajnaajewels.com/media/catalog/product/l/e/ler312_1.jpg",
+    "product_cost": "1350"
+  },
+  {
+    "id": "129",
+    "product_name": "Dual metal dangling jhumkis",
+    "profile_image": "https://www.ajnaajewels.com/media/catalog/product/l/e/ler313_3.jpg",
+    "product_cost": "1200"
+  },
+  {
+    "id": "130",
+    "product_name": "Turquoise Mogra Studs",
+    "profile_image": "https://www.ajnaajewels.com/media/catalog/product/l/e/ler321_1.jpg",
+    "product_cost": "1200"
+  },
+  {
+    "id": "131",
+    "product_name": "Chand Chandelier Earrings",
+    "profile_image": "https://www.ajnaajewels.com/media/catalog/product/l/e/ler322_3.jpg",
+    "product_cost": "1800"
+  },
+  {
+    "id": "132",
+    "product_name": "Silver Flamingo Earrings",
+    "profile_image": "https://www.ajnaajewels.com/media/catalog/product/l/e/ler333_3.jpg",
+    "product_cost": "1850"
+  },
+  {
+    "id": "133",
+    "product_name": "Plain Turquoise mogra studs",
+    "profile_image": "https://www.ajnaajewels.com/media/catalog/product/l/e/ler334_1.jpg",
+    "product_cost": "1000"
+  },
+  {
+    "id": "134",
+    "product_name": "Radical Seas Earrings",
+    "profile_image": "https://www.ajnaajewels.com/media/catalog/product/l/e/ler335_1.jpg",
+    "product_cost": "1500"
+  },
+  {
+    "id": "135",
+    "product_name": "Feroza and Red Jhumkis",
+    "profile_image": "https://www.ajnaajewels.com/media/catalog/product/l/e/ler338.jpg",
+    "product_cost": "1200"
+  },
+  {
+    "id": "136",
+    "product_name": "Navy Silver Jhumkis",
+    "profile_image": "https://www.ajnaajewels.com/media/catalog/product/l/e/ler339_3.jpg",
+    "product_cost": "1200"
+  },
+  {
+    "id": "137",
+    "product_name": "Pink Patti Earrings",
+    "profile_image": "https://www.ajnaajewels.com/media/catalog/product/l/e/ler340.jpg",
+    "product_cost": "950"
+  },
+  {
+    "id": "138",
+    "product_name": "Green Coral Earings",
+    "profile_image": "https://www.ajnaajewels.com/media/catalog/product/l/e/ler344_1.jpg",
+    "product_cost": "1800"
+  },
+  {
+    "id": "139",
+    "product_name": "Pink Drop Earrings",
+    "profile_image": "https://www.ajnaajewels.com/media/catalog/product/l/e/ler345_1.jpg",
+    "product_cost": "1600"
+  },
+  {
+    "id": "140",
+    "product_name": "Green Chandelior Earrings",
+    "profile_image": "https://www.ajnaajewels.com/media/catalog/product/l/e/ler346n.jpg",
+    "product_cost": "1800"
+  },
+  {
+    "id": "141",
+    "product_name": "Pearl Chandelior Earrings",
+    "profile_image": "https://www.ajnaajewels.com/media/catalog/product/l/e/ler347_1_1.jpg",
+    "product_cost": "1800"
+  },
+  {
+    "id": "142",
+    "product_name": "Blue Rock Chandbalis",
+    "profile_image": "https://www.ajnaajewels.com/media/catalog/product/l/e/ler348n.jpg",
+    "product_cost": "2800"
+  },
+  {
+    "id": "143",
+    "product_name": "Chanda Earrings",
+    "profile_image": "https://www.ajnaajewels.com/media/catalog/product/l/e/ler349n.jpg",
+    "product_cost": "1600"
+  },
+  {
+    "id": "144",
+    "product_name": "Red Droplets Earrings",
+    "profile_image": "https://www.ajnaajewels.com/media/catalog/product/l/e/ler350_1.jpg",
+    "product_cost": "6500"
+  },
+  {
+    "id": "145",
+    "product_name": "Red Mosaic Earrings",
+    "profile_image": "https://www.ajnaajewels.com/media/catalog/product/l/e/ler351_1.jpg",
+    "product_cost": "2500"
+  },
+  {
+    "id": "146",
+    "product_name": "Nazaakat Earrings",
+    "profile_image": "https://www.ajnaajewels.com/media/catalog/product/l/e/ler352.jpg",
+    "product_cost": "3200"
+  },
+  {
+    "id": "147",
+    "product_name": "Pearl Triad Earring",
+    "profile_image": "https://www.ajnaajewels.com/media/catalog/product/l/e/ler353_1.jpg",
+    "product_cost": "1000"
+  },
+  {
+    "id": "148",
+    "product_name": "Green Triad Earring",
+    "profile_image": "https://www.ajnaajewels.com/media/catalog/product/l/e/ler354_1.jpg",
+    "product_cost": "1000"
+  },
+  {
+    "id": "149",
+    "product_name": "Paisley Earrings",
+    "profile_image": "https://www.ajnaajewels.com/media/catalog/product/l/e/ler356.jpg",
+    "product_cost": "1400"
+  },
+  {
+    "id": "150",
+    "product_name": "Blue Meena Flourite Danglers",
+    "profile_image": "https://www.ajnaajewels.com/media/catalog/product/l/e/ler358.jpg",
+    "product_cost": "2500"
+  },
+  {
+    "id": "151",
+    "product_name": "Amethyst Chand Earrings",
+    "profile_image": "https://www.ajnaajewels.com/media/catalog/product/l/e/ler359_1.jpg",
+    "product_cost": "1350"
+  },
+  {
+    "id": "152",
+    "product_name": "Jewel Tone Sapphire Earrings",
+    "profile_image": "https://www.ajnaajewels.com/media/catalog/product/l/e/ler360_result.jpg",
+    "product_cost": "2500"
+  },
+  {
+    "id": "153",
+    "product_name": "Kundan Decor Barium Earrings",
+    "profile_image": "https://www.ajnaajewels.com/media/catalog/product/l/e/ler361_1.jpg",
+    "product_cost": "1200"
+  },
+  {
+    "id": "154",
+    "product_name": "Emerald green chandbalis",
+    "profile_image": "https://www.ajnaajewels.com/media/catalog/product/l/e/ler362_1.jpg",
+    "product_cost": "6800"
+  },
+  {
+    "id": "155",
+    "product_name": "Turquoise Dotted Earrings",
+    "profile_image": "https://www.ajnaajewels.com/media/catalog/product/l/e/ler363_1.jpg",
+    "product_cost": "1425"
+  },
+  {
+    "id": "156",
+    "product_name": "Ice Town Danglers",
+    "profile_image": "https://www.ajnaajewels.com/media/catalog/product/l/e/ler364_1.jpg",
+    "product_cost": "875"
+  },
+  {
+    "id": "157",
+    "product_name": "Statement Red Chand Earrings",
+    "profile_image": "https://www.ajnaajewels.com/media/catalog/product/l/e/ler365_1.jpg",
+    "product_cost": "4200"
+  },
+  {
+    "id": "158",
+    "product_name": "Red fin earrings",
+    "profile_image": "https://www.ajnaajewels.com/media/catalog/product/l/e/ler366_1.jpg",
+    "product_cost": "650"
+  },
+  {
+    "id": "159",
+    "product_name": "Coral chandelior earrings",
+    "profile_image": "https://www.ajnaajewels.com/media/catalog/product/l/e/ler367_1.jpg",
+    "product_cost": "2500"
+  },
+  {
+    "id": "160",
+    "product_name": "Pink fin chandbalis",
+    "profile_image": "https://www.ajnaajewels.com/media/catalog/product/l/e/ler368_1.jpg",
+    "product_cost": "2850"
+  },
+  {
+    "id": "161",
+    "product_name": "Royal Blue And Olive Earrings",
+    "profile_image": "https://www.ajnaajewels.com/media/catalog/product/l/e/ler369_1.jpg",
+    "product_cost": "2200"
+  },
+  {
+    "id": "162",
+    "product_name": "Pink And Mint Green Chandbalis",
+    "profile_image": "https://www.ajnaajewels.com/media/catalog/product/l/e/ler370_1.jpg",
+    "product_cost": "2100"
+  },
+  {
+    "id": "163",
+    "product_name": "Red And Green Dangling Chandbali",
+    "profile_image": "https://www.ajnaajewels.com/media/catalog/product/l/e/ler371_1.jpg",
+    "product_cost": "2800"
+  },
+  {
+    "id": "164",
+    "product_name": "Green bell small earrings",
+    "profile_image": "https://www.ajnaajewels.com/media/catalog/product/l/e/ler373_1.jpg",
+    "product_cost": "1200"
+  },
+  {
+    "id": "165",
+    "product_name": "Rose gold jhumkis",
+    "profile_image": "https://www.ajnaajewels.com/media/catalog/product/l/e/ler374_1.jpg",
+    "product_cost": "3300"
+  },
+  {
+    "id": "166",
+    "product_name": "Barium gold jhumkis",
+    "profile_image": "https://www.ajnaajewels.com/media/catalog/product/l/e/ler375_1.jpg",
+    "product_cost": "3300"
+  },
+  {
+    "id": "167",
+    "product_name": "Pastel turquoise and green chandbalis",
+    "profile_image": "https://www.ajnaajewels.com/media/catalog/product/l/e/ler376_1.jpg",
+    "product_cost": "2600"
+  },
+  {
+    "id": "168",
+    "product_name": "Flower fam jhumkis",
+    "profile_image": "https://www.ajnaajewels.com/media/catalog/product/l/e/ler377_1.jpg",
+    "product_cost": "1400"
+  },
+  {
+    "id": "169",
+    "product_name": "Pastel pink barium earrings",
+    "profile_image": "https://www.ajnaajewels.com/media/catalog/product/l/e/ler378_1.jpg",
+    "product_cost": "1200"
+  },
+  {
+    "id": "170",
+    "product_name": "Mint and maroon chand earrings",
+    "profile_image": "https://www.ajnaajewels.com/media/catalog/product/l/e/ler379.jpg",
+    "product_cost": "2200"
+  },
+  {
+    "id": "171",
+    "product_name": "Spice Of Life Baalis",
+    "profile_image": "https://www.ajnaajewels.com/media/catalog/product/l/e/ler382.jpg",
+    "product_cost": "2200"
+  },
+  {
+    "id": "172",
+    "product_name": "Peacock's pride baalis",
+    "profile_image": "https://www.ajnaajewels.com/media/catalog/product/l/e/ler383_1.jpg",
+    "product_cost": "2200"
+  },
+  {
+    "id": "173",
+    "product_name": "Chandmilan earrings",
+    "profile_image": "https://www.ajnaajewels.com/media/catalog/product/l/e/ler384_1.jpg",
+    "product_cost": "3600"
+  },
+  {
+    "id": "174",
+    "product_name": "Ornate Lapis Earrings",
+    "profile_image": "https://www.ajnaajewels.com/media/catalog/product/l/e/ler385.jpg",
+    "product_cost": "950"
+  },
+  {
+    "id": "175",
+    "product_name": "Grapevine Baalis",
+    "profile_image": "https://www.ajnaajewels.com/media/catalog/product/l/e/ler387_1.jpg",
+    "product_cost": "3200"
+  },
+  {
+    "id": "176",
+    "product_name": "Mystic Coral Earrings",
+    "profile_image": "https://www.ajnaajewels.com/media/catalog/product/l/e/ler388_1.jpg",
+    "product_cost": "850"
+  },
+  {
+    "id": "177",
+    "product_name": "Lapis Spade Earrings",
+    "profile_image": "https://www.ajnaajewels.com/media/catalog/product/l/e/ler389_1.jpg",
+    "product_cost": "950"
+  },
+  {
+    "id": "178",
+    "product_name": "Feroza Fantasy Earrings",
+    "profile_image": "https://www.ajnaajewels.com/media/catalog/product/l/e/ler390_1.jpg",
+    "product_cost": "1250"
+  },
+  {
+    "id": "179",
+    "product_name": "All About Coral Baalis",
+    "profile_image": "https://www.ajnaajewels.com/media/catalog/product/l/e/ler391_1.jpg",
+    "product_cost": "1500"
+  },
+  {
+    "id": "180",
+    "product_name": "Black and bead earrings",
+    "profile_image": "https://www.ajnaajewels.com/media/catalog/product/l/e/ler392_1.jpg",
+    "product_cost": "750"
+  },
+  {
+    "id": "181",
+    "product_name": "Lapis trillion earrings",
+    "profile_image": "https://www.ajnaajewels.com/media/catalog/product/l/e/ler393_2.jpg",
+    "product_cost": "1950"
+  },
+  {
+    "id": "182",
+    "product_name": "Nemo earrings",
+    "profile_image": "https://www.ajnaajewels.com/media/catalog/product/l/e/ler395_1.jpg",
+    "product_cost": "950"
+  },
+  {
+    "id": "183",
+    "product_name": "Sea drops chandbalis",
+    "profile_image": "https://www.ajnaajewels.com/media/catalog/product/l/e/ler396.jpg",
+    "product_cost": "1800"
+  },
+  {
+    "id": "184",
+    "product_name": "Feroza Fin Jhumkis",
+    "profile_image": "https://www.ajnaajewels.com/media/catalog/product/l/e/ler397_1.jpg",
+    "product_cost": "1450"
+  },
+  {
+    "id": "185",
+    "product_name": "Bead Drop Earring",
+    "profile_image": "https://www.ajnaajewels.com/media/catalog/product/l/e/ler399_1.jpg",
+    "product_cost": "750"
+  },
+  {
+    "id": "186",
+    "product_name": "Green sahara chandbalis",
+    "profile_image": "https://www.ajnaajewels.com/media/catalog/product/l/e/ler400.jpg",
+    "product_cost": "3500"
+  },
+  {
+    "id": "187",
+    "product_name": "Floral topping earrings",
+    "profile_image": "https://www.ajnaajewels.com/media/catalog/product/l/e/ler401_1.jpg",
+    "product_cost": "1600"
+  },
+  {
+    "id": "188",
+    "product_name": "Kundan Classic Danglers",
+    "profile_image": "https://www.ajnaajewels.com/media/catalog/product/l/e/ler407_1.jpg",
+    "product_cost": "1100"
+  },
+  {
+    "id": "189",
+    "product_name": "See Pink Baalis",
+    "profile_image": "https://www.ajnaajewels.com/media/catalog/product/l/e/ler408_1.jpg",
+    "product_cost": "3200"
+  },
+  {
+    "id": "190",
+    "product_name": "See Green Baalis",
+    "profile_image": "https://www.ajnaajewels.com/media/catalog/product/l/e/ler409_1.jpg",
+    "product_cost": "3200"
+  },
+  {
+    "id": "191",
+    "product_name": "Mega Polki Studs",
+    "profile_image": "https://www.ajnaajewels.com/media/catalog/product/l/e/ler410.jpg",
+    "product_cost": "1800"
+  },
+  {
+    "id": "192",
+    "product_name": "Pearled Green Earrings",
+    "profile_image": "https://www.ajnaajewels.com/media/catalog/product/l/e/ler411.jpg",
+    "product_cost": "1800"
+  },
+  {
+    "id": "193",
+    "product_name": "Zircon olive studs",
+    "profile_image": "https://www.ajnaajewels.com/media/catalog/product/l/e/ler412_5.jpg",
+    "product_cost": "1200"
+  },
+  {
+    "id": "194",
+    "product_name": "Out Of The Blue Earrings",
+    "profile_image": "https://www.ajnaajewels.com/media/catalog/product/l/e/ler413_1.jpg",
+    "product_cost": "1300"
+  },
+  {
+    "id": "195",
+    "product_name": "Let Leave Earrings",
+    "profile_image": "https://www.ajnaajewels.com/media/catalog/product/l/e/ler414_1.jpg",
+    "product_cost": "1800"
+  },
+  {
+    "id": "196",
+    "product_name": "Bark ornated earrings",
+    "profile_image": "https://www.ajnaajewels.com/media/catalog/product/l/e/ler415_1.jpg",
+    "product_cost": "1400"
+  },
+  {
+    "id": "197",
+    "product_name": "Banarasi blue earrings",
+    "profile_image": "https://www.ajnaajewels.com/media/catalog/product/l/e/ler416_1.jpg",
+    "product_cost": "850"
+  },
+  {
+    "id": "198",
+    "product_name": "Maroon mist earrings",
+    "profile_image": "https://www.ajnaajewels.com/media/catalog/product/l/e/ler417_1.jpg",
+    "product_cost": "950"
+  },
+  {
+    "id": "199",
+    "product_name": "Quartz street earrings",
+    "profile_image": "https://www.ajnaajewels.com/media/catalog/product/l/e/ler418_2.jpg",
+    "product_cost": "1000"
+  },
+  {
+    "id": "200",
+    "product_name": "Pink crescents earrings",
+    "profile_image": "https://www.ajnaajewels.com/media/catalog/product/l/e/ler419_1.jpg",
+    "product_cost": "1400"
+  },
+  {
+    "id": "201",
+    "product_name": "Gold bead green earrings",
+    "profile_image": "https://www.ajnaajewels.com/media/catalog/product/l/e/ler420.jpg",
+    "product_cost": "950"
+  },
+  {
+    "id": "202",
+    "product_name": "Pink stoned chaandbalis",
+    "profile_image": "https://www.ajnaajewels.com/media/catalog/product/l/e/ler421_1.jpg",
+    "product_cost": "1600"
+  },
+  {
+    "id": "203",
+    "product_name": "Cocoa plant earrings",
+    "profile_image": "https://www.ajnaajewels.com/media/catalog/product/l/e/ler422_1.jpg",
+    "product_cost": "850"
+  },
+  {
+    "id": "204",
+    "product_name": "Jeweled Lapis Earrings",
+    "profile_image": "https://www.ajnaajewels.com/media/catalog/product/l/e/ler423_1.jpg",
+    "product_cost": "850"
+  },
+  {
+    "id": "205",
+    "product_name": "Navratan Gold Bead Earrings",
+    "profile_image": "https://www.ajnaajewels.com/media/catalog/product/l/e/ler424.jpg",
+    "product_cost": "1900"
+  },
+  {
+    "id": "206",
+    "product_name": "Feroza Beads With Blue Stone Earrings",
+    "profile_image": "https://www.ajnaajewels.com/media/catalog/product/l/e/ler425_1result.jpg",
+    "product_cost": "1000"
+  },
+  {
+    "id": "207",
+    "product_name": "Turquoise Blue With A Hint Of Red Earrings",
+    "profile_image": "https://www.ajnaajewels.com/media/catalog/product/l/e/ler426_1.jpg",
+    "product_cost": "1100"
+  },
+  {
+    "id": "208",
+    "product_name": "Abstract Green Earrings ",
+    "profile_image": "https://www.ajnaajewels.com/media/catalog/product/l/e/ler428_1.jpg",
+    "product_cost": "1500"
+  },
+  {
+    "id": "209",
+    "product_name": "Lotus Tourmline Drop Earring",
+    "profile_image": "https://www.ajnaajewels.com/media/catalog/product/l/e/ler429_1.jpg",
+    "product_cost": "850"
+  },
+  {
+    "id": "210",
+    "product_name": "Red Chand Balis With Barium Drops",
+    "profile_image": "https://www.ajnaajewels.com/media/catalog/product/l/e/ler430_1.jpg",
+    "product_cost": "1800"
+  },
+  {
+    "id": "211",
+    "product_name": "Three Petal Earrings",
+    "profile_image": "https://www.ajnaajewels.com/media/catalog/product/l/e/ler431_1.jpg",
+    "product_cost": "750"
+  },
+  {
+    "id": "212",
+    "product_name": "Round Green Earrings",
+    "profile_image": "https://www.ajnaajewels.com/media/catalog/product/l/e/ler432.jpg",
+    "product_cost": "1550"
+  },
+  {
+    "id": "213",
+    "product_name": "Red Crescent Earrings",
+    "profile_image": "https://www.ajnaajewels.com/media/catalog/product/l/e/ler433_1.jpg",
+    "product_cost": "850"
+  },
+  {
+    "id": "214",
+    "product_name": "Octagon Green Centre Earrings",
+    "profile_image": "https://www.ajnaajewels.com/media/catalog/product/l/e/ler434_1.jpg",
+    "product_cost": "1950"
+  },
+  {
+    "id": "215",
+    "product_name": "Plain White Chandbalis",
+    "profile_image": "https://www.ajnaajewels.com/media/catalog/product/l/e/ler435_result.jpg",
+    "product_cost": "2800"
+  },
+  {
+    "id": "216",
+    "product_name": "Lemon Strands Earrings",
+    "profile_image": "https://www.ajnaajewels.com/media/catalog/product/l/e/ler438_1.jpg",
+    "product_cost": "700"
+  },
+  {
+    "id": "217",
+    "product_name": "Embellished Drop Earrings ",
+    "profile_image": "https://www.ajnaajewels.com/media/catalog/product/l/e/ler439.jpg",
+    "product_cost": "750"
+  },
+  {
+    "id": "218",
+    "product_name": "Red Flower Danglers",
+    "profile_image": "https://www.ajnaajewels.com/media/catalog/product/l/e/ler440.jpg",
+    "product_cost": "1400"
+  },
+  {
+    "id": "219",
+    "product_name": "Turquoise Sap Green Crescent Danglers",
+    "profile_image": "https://www.ajnaajewels.com/media/catalog/product/l/e/ler442.jpg",
+    "product_cost": "950"
+  },
+  {
+    "id": "220",
+    "product_name": "Rose Crescent Danglers",
+    "profile_image": "https://www.ajnaajewels.com/media/catalog/product/l/e/ler443_1.jpg",
+    "product_cost": "1200"
+  },
+  {
+    "id": "221",
+    "product_name": "Three Petal Double Layer Earrings",
+    "profile_image": "https://www.ajnaajewels.com/media/catalog/product/l/e/ler446_1.jpg",
+    "product_cost": "900"
+  },
+  {
+    "id": "222",
+    "product_name": "Red and Feroza Geometric Earrings",
+    "profile_image": "https://www.ajnaajewels.com/media/catalog/product/l/e/ler447_1.jpg",
+    "product_cost": "1150"
+  },
+  {
+    "id": "223",
+    "product_name": "Turquoise Detail Chandbali ",
+    "profile_image": "https://www.ajnaajewels.com/media/catalog/product/l/e/ler448.jpg",
+    "product_cost": "1550"
+  },
+  {
+    "id": "224",
+    "product_name": "Turquoise Jhumki Earrings",
+    "profile_image": "https://www.ajnaajewels.com/media/catalog/product/l/e/ler449_1.jpg",
+    "product_cost": "900"
+  },
+  {
+    "id": "225",
+    "product_name": "Turquoise Funk Danglers",
+    "profile_image": "https://www.ajnaajewels.com/media/catalog/product/l/e/ler450_1.jpg",
+    "product_cost": "1000"
+  },
+  {
+    "id": "226",
+    "product_name": "Red and Green petal earrings",
+    "profile_image": "https://www.ajnaajewels.com/media/catalog/product/l/e/ler451_1.jpg",
+    "product_cost": "1250"
+  },
+  {
+    "id": "227",
+    "product_name": "Geometric Three Petal earring",
+    "profile_image": "https://www.ajnaajewels.com/media/catalog/product/l/e/ler452_1.jpg",
+    "product_cost": "1000"
+  },
+  {
+    "id": "228",
+    "product_name": "Pearl Flower Earrings",
+    "profile_image": "https://www.ajnaajewels.com/media/catalog/product/l/e/ler453_1.jpg",
+    "product_cost": "900"
+  },
+  {
+    "id": "229",
+    "product_name": "Red Square Chandelier Earrings",
+    "profile_image": "https://www.ajnaajewels.com/media/catalog/product/l/e/ler455_1.jpg",
+    "product_cost": "1250"
+  },
+  {
+    "id": "230",
+    "product_name": "Purple Crescent Drop Earrings",
+    "profile_image": "https://www.ajnaajewels.com/media/catalog/product/l/e/ler456_5.jpg",
+    "product_cost": "1300"
+  },
+  {
+    "id": "231",
+    "product_name": "Baroque Pearl Earrings",
+    "profile_image": "https://www.ajnaajewels.com/media/catalog/product/l/e/ler457_1.jpg",
+    "product_cost": "650"
+  },
+  {
+    "id": "232",
+    "product_name": "Barium Stone Long Studs",
+    "profile_image": "https://www.ajnaajewels.com/media/catalog/product/l/e/ler458_1.jpg",
+    "product_cost": "650"
+  },
+  {
+    "id": "233",
+    "product_name": "Chandelier Balis With A hint Of Red",
+    "profile_image": "https://www.ajnaajewels.com/media/catalog/product/l/e/ler459_1.jpg",
+    "product_cost": "4500"
+  },
+  {
+    "id": "234",
+    "product_name": "Flower Danglers With A Hint Of Green",
+    "profile_image": "https://www.ajnaajewels.com/media/catalog/product/l/e/ler460_1.jpg",
+    "product_cost": "1500"
+  },
+  {
+    "id": "235",
+    "product_name": "Turquoise Flower Danglers",
+    "profile_image": "https://www.ajnaajewels.com/media/catalog/product/l/e/ler461_1.jpg",
+    "product_cost": "1200"
+  },
+  {
+    "id": "236",
+    "product_name": "Textured Pale Green Baalis",
+    "profile_image": "https://www.ajnaajewels.com/media/catalog/product/l/e/ler462_1.jpg",
+    "product_cost": "3050"
+  },
+  {
+    "id": "237",
+    "product_name": "Grey Meena Coral Earrings ",
+    "profile_image": "https://www.ajnaajewels.com/media/catalog/product/l/e/ler463_1.jpg",
+    "product_cost": "1350"
+  },
+  {
+    "id": "238",
+    "product_name": "Amethyst Drop Danglers",
+    "profile_image": "https://www.ajnaajewels.com/media/catalog/product/l/e/ler464_1_1.jpg",
+    "product_cost": "1100"
+  },
+  {
+    "id": "239",
+    "product_name": "Classic Three Petal Crescent Danglers ",
+    "profile_image": "https://www.ajnaajewels.com/media/catalog/product/l/e/ler465.jpg",
+    "product_cost": "1200"
+  },
+  {
+    "id": "240",
+    "product_name": "Three Petal Branch Earrings ",
+    "profile_image": "https://www.ajnaajewels.com/media/catalog/product/l/e/ler466_1.jpg",
+    "product_cost": "1100"
+  },
+  {
+    "id": "241",
+    "product_name": "Green And Gold Chandbali ",
+    "profile_image": "https://www.ajnaajewels.com/media/catalog/product/l/e/ler467_1.jpg",
+    "product_cost": "1950"
+  },
+  {
+    "id": "242",
+    "product_name": "Red And Green Flower Chandbali",
+    "profile_image": "https://www.ajnaajewels.com/media/catalog/product/l/e/ler468.jpg",
+    "product_cost": "2400"
+  },
+  {
+    "id": "243",
+    "product_name": "Flower Petal Drop Earrings ",
+    "profile_image": "https://www.ajnaajewels.com/media/catalog/product/l/e/ler469_new_1.jpg",
+    "product_cost": "1700"
+  },
+  {
+    "id": "244",
+    "product_name": "Red Meena Earrings ",
+    "profile_image": "https://www.ajnaajewels.com/media/catalog/product/l/e/ler470_1.jpg",
+    "product_cost": "1800"
+  },
+  {
+    "id": "245",
+    "product_name": "Green and Golden Chandbali",
+    "profile_image": "https://www.ajnaajewels.com/media/catalog/product/l/e/ler471_1.jpg",
+    "product_cost": "2400"
+  },
+  {
+    "id": "246",
+    "product_name": "Green And Blue Meenakari danglers",
+    "profile_image": "https://www.ajnaajewels.com/media/catalog/product/l/e/ler473_1.jpg",
+    "product_cost": "1850"
+  },
+  {
+    "id": "247",
+    "product_name": "Black And Gold studs",
+    "profile_image": "https://www.ajnaajewels.com/media/catalog/product/l/e/ler474_1.jpg",
+    "product_cost": "750"
+  },
+  {
+    "id": "248",
+    "product_name": "Red And Green Moon Drop Earrings ",
+    "profile_image": "https://www.ajnaajewels.com/media/catalog/product/l/e/ler475_1.jpg",
+    "product_cost": "2700"
+  },
+  {
+    "id": "249",
+    "product_name": "Rose Quartz Meenakari Danglers",
+    "profile_image": "https://www.ajnaajewels.com/media/catalog/product/l/e/ler476_1.jpg",
+    "product_cost": "1600"
+  },
+  {
+    "id": "250",
+    "product_name": "Red And Green Meenakari Earrings ",
+    "profile_image": "https://www.ajnaajewels.com/media/catalog/product/l/e/ler477_1.jpg",
+    "product_cost": "1000"
+  },
+  {
+    "id": "251",
+    "product_name": "Meenakari Crescent Earrings ",
+    "profile_image": "https://www.ajnaajewels.com/media/catalog/product/l/e/ler478_1.jpg",
+    "product_cost": "1300"
+  },
+  {
+    "id": "252",
+    "product_name": "Engraved lapis earrings",
+    "profile_image": "https://www.ajnaajewels.com/media/catalog/product/l/e/ler480_1.jpg",
+    "product_cost": "750"
+  },
+  {
+    "id": "253",
+    "product_name": "Engraved Coral Earrings",
+    "profile_image": "https://www.ajnaajewels.com/media/catalog/product/l/e/ler481_1.jpg",
+    "product_cost": "650"
+  },
+  {
+    "id": "254",
+    "product_name": "Blue Rock Earrings",
+    "profile_image": "https://www.ajnaajewels.com/media/catalog/product/l/e/ler482_1.jpg",
+    "product_cost": "850"
+  },
+  {
+    "id": "255",
+    "product_name": "Green Flame Earrings",
+    "profile_image": "https://www.ajnaajewels.com/media/catalog/product/l/e/ler483_2.jpg",
+    "product_cost": "850"
+  },
+  {
+    "id": "256",
+    "product_name": "Red Geometric Kundan Earrings",
+    "profile_image": "https://www.ajnaajewels.com/media/catalog/product/l/e/ler485.jpg",
+    "product_cost": "1150"
+  },
+  {
+    "id": "257",
+    "product_name": "Round Blue Drop Earrings",
+    "profile_image": "https://www.ajnaajewels.com/media/catalog/product/l/e/ler486_1.jpg",
+    "product_cost": "750"
+  },
+  {
+    "id": "258",
+    "product_name": "Triple Black Rose Quartz Danglers",
+    "profile_image": "https://www.ajnaajewels.com/media/catalog/product/l/e/ler488.jpg",
+    "product_cost": "750"
+  },
+  {
+    "id": "259",
+    "product_name": "Piping Aubergine Earrings",
+    "profile_image": "https://www.ajnaajewels.com/media/catalog/product/l/e/ler489_1_1.jpg",
+    "product_cost": "750"
+  },
+  {
+    "id": "260",
+    "product_name": "Leaf Mix Earrings",
+    "profile_image": "https://www.ajnaajewels.com/media/catalog/product/l/e/ler490_4.jpg",
+    "product_cost": "650"
+  },
+  {
+    "id": "261",
+    "product_name": "Blueberry Earrings",
+    "profile_image": "https://www.ajnaajewels.com/media/catalog/product/l/e/ler491.jpg",
+    "product_cost": "2100"
+  },
+  {
+    "id": "262",
+    "product_name": "Silver Button Earrings",
+    "profile_image": "https://www.ajnaajewels.com/media/catalog/product/l/e/ler492_2.jpg",
+    "product_cost": "650"
+  },
+  {
+    "id": "263",
+    "product_name": "Smokey Shades Danglers",
+    "profile_image": "https://www.ajnaajewels.com/media/catalog/product/l/e/ler493_1.jpg",
+    "product_cost": "1350"
+  },
+  {
+    "id": "264",
+    "product_name": "Purple Peeks Earrings",
+    "profile_image": "https://www.ajnaajewels.com/media/catalog/product/l/e/ler494.jpg",
+    "product_cost": "700"
+  },
+  {
+    "id": "265",
+    "product_name": "Tattooed Crescent Earrings",
+    "profile_image": "https://www.ajnaajewels.com/media/catalog/product/l/e/ler495.jpg",
+    "product_cost": "2150"
+  },
+  {
+    "id": "266",
+    "product_name": "Monochrome Meena Earrings",
+    "profile_image": "https://www.ajnaajewels.com/media/catalog/product/l/e/ler496_1.jpg",
+    "product_cost": "750"
+  },
+  {
+    "id": "267",
+    "product_name": "Fruit Salad Earrings",
+    "profile_image": "https://www.ajnaajewels.com/media/catalog/product/l/e/ler497.jpg",
+    "product_cost": "650"
+  },
+  {
+    "id": "268",
+    "product_name": "Fruit Cocktail Earrings",
+    "profile_image": "https://www.ajnaajewels.com/media/catalog/product/l/e/ler498.jpg",
+    "product_cost": "650"
+  },
+  {
+    "id": "269",
+    "product_name": "Silver Coral Earrings ",
+    "profile_image": "https://www.ajnaajewels.com/media/catalog/product/l/e/ler499_1.jpg",
+    "product_cost": "650"
+  },
+  {
+    "id": "270",
+    "product_name": "Silver Melon Earrings",
+    "profile_image": "https://www.ajnaajewels.com/media/catalog/product/l/e/ler500.jpg",
+    "product_cost": "650"
+  },
+  {
+    "id": "271",
+    "product_name": "Plant A Melon Earrings",
+    "profile_image": "https://www.ajnaajewels.com/media/catalog/product/l/e/ler501.jpg",
+    "product_cost": "650"
+  },
+  {
+    "id": "272",
+    "product_name": "Pink Party Earrings",
+    "profile_image": "https://www.ajnaajewels.com/media/catalog/product/l/e/ler502.jpg",
+    "product_cost": "650"
+  },
+  {
+    "id": "273",
+    "product_name": "Cleopatra Earrings",
+    "profile_image": "https://www.ajnaajewels.com/media/catalog/product/l/e/ler503.jpg",
+    "product_cost": "950"
+  },
+  {
+    "id": "274",
+    "product_name": "Fancy Flame Earrings",
+    "profile_image": "https://www.ajnaajewels.com/media/catalog/product/l/e/ler504.jpg",
+    "product_cost": "1200"
+  },
+  {
+    "id": "275",
+    "product_name": "Grey Drops Earrings",
+    "profile_image": "https://www.ajnaajewels.com/media/catalog/product/l/e/ler505.jpg",
+    "product_cost": "650"
+  },
+  {
+    "id": "276",
+    "product_name": "Enamel Red earrings",
+    "profile_image": "https://www.ajnaajewels.com/media/catalog/product/l/e/ler506.jpg",
+    "product_cost": "1050"
+  },
+  {
+    "id": "277",
+    "product_name": "Jade Blush Earrings",
+    "profile_image": "https://www.ajnaajewels.com/media/catalog/product/l/e/ler507.jpg",
+    "product_cost": "850"
+  },
+  {
+    "id": "278",
+    "product_name": "Sky Drop Jhumkis",
+    "profile_image": "https://www.ajnaajewels.com/media/catalog/product/l/e/ler508.jpg",
+    "product_cost": "1050"
+  },
+  {
+    "id": "279",
+    "product_name": "Nectarine Earrings",
+    "profile_image": "https://www.ajnaajewels.com/media/catalog/product/l/e/ler509_2.jpg",
+    "product_cost": "850"
+  },
+  {
+    "id": "280",
+    "product_name": "Scenic Chandbaalis",
+    "profile_image": "https://www.ajnaajewels.com/media/catalog/product/l/e/ler510_1_.jpg",
+    "product_cost": "1500"
+  },
+  {
+    "id": "281",
+    "product_name": "Aquatic Aura Baalis",
+    "profile_image": "https://www.ajnaajewels.com/media/catalog/product/l/e/ler511.jpg",
+    "product_cost": "2200"
+  },
+  {
+    "id": "282",
+    "product_name": "Zircon Geometry Earrings",
+    "profile_image": "https://www.ajnaajewels.com/media/catalog/product/l/e/ler512.jpg",
+    "product_cost": "1950"
+  },
+  {
+    "id": "283",
+    "product_name": "Black Bottom Earrings",
+    "profile_image": "https://www.ajnaajewels.com/media/catalog/product/l/e/ler513.jpg",
+    "product_cost": "1500"
+  },
+  {
+    "id": "284",
+    "product_name": "Pearl Bottom Earrings",
+    "profile_image": "https://www.ajnaajewels.com/media/catalog/product/l/e/ler514.jpg",
+    "product_cost": "1500"
+  },
+  {
+    "id": "285",
+    "product_name": "Green Queen Earrings",
+    "profile_image": "https://www.ajnaajewels.com/media/catalog/product/l/e/ler515.jpg",
+    "product_cost": "1500"
+  },
+  {
+    "id": "286",
+    "product_name": "Southern Mandala Earrings",
+    "profile_image": "https://www.ajnaajewels.com/media/catalog/product/l/e/ler516.jpg",
+    "product_cost": "1250"
+  },
+  {
+    "id": "287",
+    "product_name": "Sparkling White Zircon Chandbalis",
+    "profile_image": "https://www.ajnaajewels.com/media/catalog/product/l/e/ler517.jpg",
+    "product_cost": "2150"
+  },
+  {
+    "id": "288",
+    "product_name": "Patakha Earrings",
+    "profile_image": "https://www.ajnaajewels.com/media/catalog/product/l/e/ler518.jpg",
+    "product_cost": "1600"
+  },
+  {
+    "id": "289",
+    "product_name": "Ornate Feroza Earrings",
+    "profile_image": "https://www.ajnaajewels.com/media/catalog/product/l/e/ler519.jpg",
+    "product_cost": "1150"
+  },
+  {
+    "id": "290",
+    "product_name": "Vibrancy Earrings",
+    "profile_image": "https://www.ajnaajewels.com/media/catalog/product/l/e/ler520.jpg",
+    "product_cost": "1850"
+  },
+  {
+    "id": "291",
+    "product_name": "Red Star Earrings",
+    "profile_image": "https://www.ajnaajewels.com/media/catalog/product/l/e/ler521.jpg",
+    "product_cost": "900"
+  },
+  {
+    "id": "292",
+    "product_name": "Chained Red Earrings",
+    "profile_image": "https://www.ajnaajewels.com/media/catalog/product/l/e/ler522.jpg",
+    "product_cost": "750"
+  },
+  {
+    "id": "293",
+    "product_name": "Flaming Triangle Earrings",
+    "profile_image": "https://www.ajnaajewels.com/media/catalog/product/l/e/ler523.jpg",
+    "product_cost": "950"
+  },
+  {
+    "id": "294",
+    "product_name": "Zircon Bead Earrings",
+    "profile_image": "https://www.ajnaajewels.com/media/catalog/product/l/e/ler524.jpg",
+    "product_cost": "950"
+  },
+  {
+    "id": "295",
+    "product_name": "Sparkling Blue Zircon Chandbalis",
+    "profile_image": "https://www.ajnaajewels.com/media/catalog/product/l/e/ler525_1.jpg",
+    "product_cost": "2150"
+  },
+  {
+    "id": "296",
+    "product_name": "Spiked Mint Earrings",
+    "profile_image": "https://www.ajnaajewels.com/media/catalog/product/l/e/ler526.jpg",
+    "product_cost": "750"
+  },
+  {
+    "id": "297",
+    "product_name": "Gulab Glow Earrings ",
+    "profile_image": "https://www.ajnaajewels.com/media/catalog/product/l/e/ler527.jpg",
+    "product_cost": "3250"
+  },
+  {
+    "id": "298",
+    "product_name": "Golden Hues Earrings",
+    "profile_image": "https://www.ajnaajewels.com/media/catalog/product/l/e/ler528.jpg",
+    "product_cost": "1500"
+  },
+  {
+    "id": "299",
+    "product_name": "Lotus Pond Earrings",
+    "profile_image": "https://www.ajnaajewels.com/media/catalog/product/l/e/ler529.jpg",
+    "product_cost": "900"
+  },
+  {
+    "id": "300",
+    "product_name": "Flower Stem Earrings",
+    "profile_image": "https://www.ajnaajewels.com/media/catalog/product/l/e/ler530.jpg",
+    "product_cost": "650"
+  },
+  {
+    "id": "301",
+    "product_name": "Boond Earring",
+    "profile_image": "https://www.ajnaajewels.com/media/catalog/product/l/e/ler531.jpg",
+    "product_cost": "1250"
+  },
+  {
+    "id": "302",
+    "product_name": "Colour Quartz Studs",
+    "profile_image": "https://www.ajnaajewels.com/media/catalog/product/l/e/ler532_2_1_1.jpg",
+    "product_cost": "850"
+  },
+  {
+    "id": "303",
+    "product_name": "Red Gold Bottom Earrings",
+    "profile_image": "https://www.ajnaajewels.com/media/catalog/product/l/e/ler533_2.jpg",
+    "product_cost": "650"
+  },
+  {
+    "id": "304",
+    "product_name": "Navy Pearl Drop Earrings ",
+    "profile_image": "https://www.ajnaajewels.com/media/catalog/product/l/e/ler534.jpg",
+    "product_cost": "650"
+  },
+  {
+    "id": "305",
+    "product_name": "Pale Pink And Green Chandbali",
+    "profile_image": "https://www.ajnaajewels.com/media/catalog/product/l/e/ler535_1.jpg",
+    "product_cost": "2100"
+  },
+  {
+    "id": "306",
+    "product_name": "Grey Pearl Studs",
+    "profile_image": "https://www.ajnaajewels.com/media/catalog/product/l/e/ler536_1.jpg",
+    "product_cost": "500"
+  },
+  {
+    "id": "307",
+    "product_name": "Stonetipede Earrings",
+    "profile_image": "https://www.ajnaajewels.com/media/catalog/product/l/e/ler537.jpg",
+    "product_cost": "1450"
+  },
+  {
+    "id": "308",
+    "product_name": "Rose Wine Earrings",
+    "profile_image": "https://www.ajnaajewels.com/media/catalog/product/l/e/ler538.jpg",
+    "product_cost": "950"
+  },
+  {
+    "id": "309",
+    "product_name": "Fluted Earrings",
+    "profile_image": "https://www.ajnaajewels.com/media/catalog/product/l/e/ler539.jpg",
+    "product_cost": "2200"
+  },
+  {
+    "id": "310",
+    "product_name": "Gold Rain Earrings",
+    "profile_image": "https://www.ajnaajewels.com/media/catalog/product/l/e/ler540.jpg",
+    "product_cost": "2100"
+  },
+  {
+    "id": "311",
+    "product_name": "Pink Peacock Earrings",
+    "profile_image": "https://www.ajnaajewels.com/media/catalog/product/l/e/ler541_1.jpg",
+    "product_cost": "1700"
+  },
+  {
+    "id": "312",
+    "product_name": "Pink Pearl Chandbaalis",
+    "profile_image": "https://www.ajnaajewels.com/media/catalog/product/l/e/ler545.jpg",
+    "product_cost": "1800"
+  },
+  {
+    "id": "313",
+    "product_name": "Chained Lotus Danglers",
+    "profile_image": "https://www.ajnaajewels.com/media/catalog/product/l/e/ler547.jpg",
+    "product_cost": "750"
+  },
+  {
+    "id": "314",
+    "product_name": "Sky Blue And Pink Earrings",
+    "profile_image": "https://www.ajnaajewels.com/media/catalog/product/l/e/ler548.jpg",
+    "product_cost": "3500"
+  },
+  {
+    "id": "315",
+    "product_name": "Red Queen Earrings",
+    "profile_image": "https://www.ajnaajewels.com/media/catalog/product/l/e/ler549_1.jpg",
+    "product_cost": "1850"
+  },
+  {
+    "id": "316",
+    "product_name": "Spiked Meenakari Earring ",
+    "profile_image": "https://www.ajnaajewels.com/media/catalog/product/l/e/ler550_result.jpg",
+    "product_cost": "1750"
+  },
+  {
+    "id": "317",
+    "product_name": "Gold Flower Earrings",
+    "profile_image": "https://www.ajnaajewels.com/media/catalog/product/l/e/ler551_1.jpg",
+    "product_cost": "950"
+  },
+  {
+    "id": "318",
+    "product_name": "Meenakari Sudarshan Earring",
+    "profile_image": "https://www.ajnaajewels.com/media/catalog/product/l/e/ler553.jpg",
+    "product_cost": "1450"
+  },
+  {
+    "id": "319",
+    "product_name": "Pink Raindrop Earrings",
+    "profile_image": "https://www.ajnaajewels.com/media/catalog/product/l/e/ler554.jpg",
+    "product_cost": "2150"
+  },
+  {
+    "id": "320",
+    "product_name": "Silver Rose Gold String Danglers",
+    "profile_image": "https://www.ajnaajewels.com/media/catalog/product/l/e/ler555.jpg",
+    "product_cost": "1150"
+  },
+  {
+    "id": "321",
+    "product_name": "The Bouquet Earrings",
+    "profile_image": "https://www.ajnaajewels.com/media/catalog/product/l/e/ler556_1.jpg",
+    "product_cost": "2350"
+  },
+  {
+    "id": "322",
+    "product_name": "Fireball Earrings",
+    "profile_image": "https://www.ajnaajewels.com/media/catalog/product/l/e/ler557.jpg",
+    "product_cost": "1450"
+  },
+  {
+    "id": "323",
+    "product_name": "Monast Earrings",
+    "profile_image": "https://www.ajnaajewels.com/media/catalog/product/l/e/ler558.jpg",
+    "product_cost": "850"
+  },
+  {
+    "id": "324",
+    "product_name": "Lotus Swamp Earrings",
+    "profile_image": "https://www.ajnaajewels.com/media/catalog/product/l/e/ler559.jpg",
+    "product_cost": "900"
+  },
+  {
+    "id": "325",
+    "product_name": "Panchratna Earrings",
+    "profile_image": "https://www.ajnaajewels.com/media/catalog/product/l/e/ler560_1_.jpg",
+    "product_cost": "1300"
+  },
+  {
+    "id": "326",
+    "product_name": "Cherry Chandbaalis",
+    "profile_image": "https://www.ajnaajewels.com/media/catalog/product/l/e/ler561.jpg",
+    "product_cost": "3700"
+  },
+  {
+    "id": "327",
+    "product_name": "Golden Garden Earrings",
+    "profile_image": "https://www.ajnaajewels.com/media/catalog/product/l/e/ler562_1.jpg",
+    "product_cost": "2900"
+  },
+  {
+    "id": "328",
+    "product_name": "Monk Made Earrings",
+    "profile_image": "https://www.ajnaajewels.com/media/catalog/product/l/e/ler563_result_1.jpg",
+    "product_cost": "850"
+  },
+  {
+    "id": "329",
+    "product_name": "Blush Jadai Earrings",
+    "profile_image": "https://www.ajnaajewels.com/media/catalog/product/l/e/ler565_result.jpg",
+    "product_cost": "4800"
+  },
+  {
+    "id": "330",
+    "product_name": "Shades Of Blue Chandbaalis With Pink Drops",
+    "profile_image": "https://www.ajnaajewels.com/media/catalog/product/l/e/ler566.jpg",
+    "product_cost": "4500"
+  },
+  {
+    "id": "331",
+    "product_name": "Zircon Grey Pearl Earings",
+    "profile_image": "https://www.ajnaajewels.com/media/catalog/product/l/e/ler567.jpg",
+    "product_cost": "850"
+  },
+  {
+    "id": "332",
+    "product_name": "Tree Coral Earrings",
+    "profile_image": "https://www.ajnaajewels.com/media/catalog/product/l/e/ler568.jpg",
+    "product_cost": "3200"
+  },
+  {
+    "id": "333",
+    "product_name": "Holier Than Thou Earrings",
+    "profile_image": "https://www.ajnaajewels.com/media/catalog/product/l/e/ler569.jpg",
+    "product_cost": "1600"
+  },
+  {
+    "id": "334",
+    "product_name": "Rose Quartz Centre Earrings",
+    "profile_image": "https://www.ajnaajewels.com/media/catalog/product/l/e/ler570.jpg",
+    "product_cost": "2500"
+  },
+  {
+    "id": "335",
+    "product_name": "Laal Mehal Earrings",
+    "profile_image": "https://www.ajnaajewels.com/media/catalog/product/l/e/ler571_1_.jpg",
+    "product_cost": "4800"
+  },
+  {
+    "id": "336",
+    "product_name": "Gulabi Grace Baalis",
+    "profile_image": "https://www.ajnaajewels.com/media/catalog/product/l/e/ler573.jpg",
+    "product_cost": "2250"
+  },
+  {
+    "id": "337",
+    "product_name": "Tourmaline Touch Earrings",
+    "profile_image": "https://www.ajnaajewels.com/media/catalog/product/l/e/ler574.jpg",
+    "product_cost": "3500"
+  },
+  {
+    "id": "338",
+    "product_name": "Red Jharonka Earrings",
+    "profile_image": "https://www.ajnaajewels.com/media/catalog/product/l/e/ler575_2.jpg",
+    "product_cost": "1600"
+  },
+  {
+    "id": "339",
+    "product_name": "Green Valley Baalis",
+    "profile_image": "https://www.ajnaajewels.com/media/catalog/product/l/e/ler576.jpg",
+    "product_cost": "3200"
+  },
+  {
+    "id": "340",
+    "product_name": "Polki Emerald Earrings",
+    "profile_image": "https://www.ajnaajewels.com/media/catalog/product/l/e/ler577.jpg",
+    "product_cost": "4800"
+  },
+  {
+    "id": "341",
+    "product_name": "Green Roof Earrings",
+    "profile_image": "https://www.ajnaajewels.com/media/catalog/product/l/e/ler579.jpg",
+    "product_cost": "1850"
+  },
+  {
+    "id": "342",
+    "product_name": "Pink Planet Earrings",
+    "profile_image": "https://www.ajnaajewels.com/media/catalog/product/l/e/ler581.jpg",
+    "product_cost": "1850"
+  },
+  {
+    "id": "343",
+    "product_name": "Candied Planet Earrings",
+    "profile_image": "https://www.ajnaajewels.com/media/catalog/product/l/e/ler582.jpg",
+    "product_cost": "1500"
+  },
+  {
+    "id": "344",
+    "product_name": "Jauba Phool Chaandbaalis",
+    "profile_image": "https://www.ajnaajewels.com/media/catalog/product/l/e/ler583.jpg",
+    "product_cost": "4800"
+  },
+  {
+    "id": "345",
+    "product_name": "Jadai Petal Jhumkis",
+    "profile_image": "https://www.ajnaajewels.com/media/catalog/product/l/e/ler584_rvp.jpg",
+    "product_cost": "14500"
+  },
+  {
+    "id": "346",
+    "product_name": "Mangal Maroon Earrings",
+    "profile_image": "https://www.ajnaajewels.com/media/catalog/product/l/e/ler585_rvp.jpg",
+    "product_cost": "24000"
+  },
+  {
+    "id": "347",
+    "product_name": "Tourmaline Tradition Earrings",
+    "profile_image": "https://www.ajnaajewels.com/media/catalog/product/l/e/ler586_rvp.jpg",
+    "product_cost": "15500"
+  },
+  {
+    "id": "348",
+    "product_name": "Feroza Thunder Earrings",
+    "profile_image": "https://www.ajnaajewels.com/media/catalog/product/l/e/ler587.jpg",
+    "product_cost": "2250"
+  },
+  {
+    "id": "349",
+    "product_name": "Exclamation Transparent Earrings",
+    "profile_image": "https://www.ajnaajewels.com/media/catalog/product/l/e/ler588.jpg",
+    "product_cost": "1900"
+  },
+  {
+    "id": "350",
+    "product_name": "Pink Shield Earrings",
+    "profile_image": "https://www.ajnaajewels.com/media/catalog/product/l/e/ler589.jpg",
+    "product_cost": "2700"
+  },
+  {
+    "id": "351",
+    "product_name": "Ethnic fin Chandbali",
+    "profile_image": "https://www.ajnaajewels.com/media/catalog/product/l/e/ler590.jpg",
+    "product_cost": "3800"
+  },
+  {
+    "id": "352",
+    "product_name": "Black Meena Jawabi Earrings ",
+    "profile_image": "https://www.ajnaajewels.com/media/catalog/product/l/e/ler592.jpg",
+    "product_cost": "1100"
+  },
+  {
+    "id": "353",
+    "product_name": "Twin Tower Earrings",
+    "profile_image": "https://www.ajnaajewels.com/media/catalog/product/l/e/ler593.jpg",
+    "product_cost": "3200"
+  },
+  {
+    "id": "354",
+    "product_name": "Pink Cocoon Earrings",
+    "profile_image": "https://www.ajnaajewels.com/media/catalog/product/l/e/ler594.jpg",
+    "product_cost": "1200"
+  },
+  {
+    "id": "355",
+    "product_name": "Green Jhoomar Earrings",
+    "profile_image": "https://www.ajnaajewels.com/media/catalog/product/l/e/ler597.jpg",
+    "product_cost": "2500"
+  },
+  {
+    "id": "356",
+    "product_name": "Red Omen Earrings ",
+    "profile_image": "https://www.ajnaajewels.com/media/catalog/product/l/e/ler598.jpg",
+    "product_cost": "1100"
+  },
+  {
+    "id": "357",
+    "product_name": "Sea Horse Chandbaalis",
+    "profile_image": "https://www.ajnaajewels.com/media/catalog/product/l/e/ler599.jpg",
+    "product_cost": "2800"
+  },
+  {
+    "id": "358",
+    "product_name": "Aashmani Chandbaalis",
+    "profile_image": "https://www.ajnaajewels.com/media/catalog/product/l/e/ler600.jpg",
+    "product_cost": "3200"
+  },
+  {
+    "id": "359",
+    "product_name": "Green Rani Sahiba Earrings",
+    "profile_image": "https://www.ajnaajewels.com/media/catalog/product/l/e/ler601.jpg",
+    "product_cost": "2850"
+  },
+  {
+    "id": "360",
+    "product_name": "Flower fin earrings",
+    "profile_image": "https://www.ajnaajewels.com/media/catalog/product/l/e/ler605_1.jpg",
+    "product_cost": "1400"
+  },
+  {
+    "id": "361",
+    "product_name": "Nili triplet earrings",
+    "profile_image": "https://www.ajnaajewels.com/media/catalog/product/l/e/ler609.jpg",
+    "product_cost": "1800"
+  },
+  {
+    "id": "362",
+    "product_name": "Feroza triplet earrings",
+    "profile_image": "https://www.ajnaajewels.com/media/catalog/product/l/e/ler610.jpg",
+    "product_cost": "1800"
+  },
+  {
+    "id": "363",
+    "product_name": "Turquoise studds",
+    "profile_image": "https://www.ajnaajewels.com/media/catalog/product/l/e/ler611.jpg",
+    "product_cost": "1500"
+  },
+  {
+    "id": "364",
+    "product_name": "Icey danglers",
+    "profile_image": "https://www.ajnaajewels.com/media/catalog/product/l/e/ler613.jpg",
+    "product_cost": "1800"
+  },
+  {
+    "id": "365",
+    "product_name": "ler532-Lapis",
+    "profile_image": "https://www.ajnaajewels.com/media/catalog/product/l/e/ler614_1_1_1.jpg",
+    "product_cost": "850"
+  },
+  {
+    "id": "366",
+    "product_name": "ler532-Lapis",
+    "profile_image": "https://www.ajnaajewels.com/media/catalog/product/l/e/ler614_1_2_1.jpg",
+    "product_cost": "850"
+  },
+  {
+    "id": "367",
+    "product_name": "ler532-Red",
+    "profile_image": "https://www.ajnaajewels.com/media/catalog/product/l/e/ler614_2_1.jpg",
+    "product_cost": "850"
+  },
+  {
+    "id": "368",
+    "product_name": "ler532-Red",
+    "profile_image": "https://www.ajnaajewels.com/media/catalog/product/l/e/ler614_3_1.jpg",
+    "product_cost": "850"
+  },
+  {
+    "id": "369",
+    "product_name": "Multi Meena Danglers",
+    "profile_image": "https://www.ajnaajewels.com/media/catalog/product/l/e/ler621.jpg",
+    "product_cost": "2700"
+  },
+  {
+    "id": "370",
+    "product_name": "Peacock Kundan Earrings",
+    "profile_image": "https://www.ajnaajewels.com/media/catalog/product/l/e/ler622.jpg",
+    "product_cost": "950"
+  },
+  {
+    "id": "371",
+    "product_name": "Pastel Gajra Earrings",
+    "profile_image": "https://www.ajnaajewels.com/media/catalog/product/l/e/ler623.jpg",
+    "product_cost": "3100"
+  },
+  {
+    "id": "372",
+    "product_name": "Red bloom haath phool",
+    "profile_image": "https://www.ajnaajewels.com/media/catalog/product/l/h/lh1_2.jpg",
+    "product_cost": "2500"
+  },
+  {
+    "id": "373",
+    "product_name": "Guldasta hathphool",
+    "profile_image": "https://www.ajnaajewels.com/media/catalog/product/l/h/lh2.jpg",
+    "product_cost": "2400"
+  },
+  {
+    "id": "374",
+    "product_name": "Festive Frenzy Hathphool",
+    "profile_image": "https://www.ajnaajewels.com/media/catalog/product/l/h/lh3_1.jpg",
+    "product_cost": "2500"
+  },
+  {
+    "id": "375",
+    "product_name": "Florafied Hathphool",
+    "profile_image": "https://www.ajnaajewels.com/media/catalog/product/l/h/lh4.jpg",
+    "product_cost": "3500"
+  },
+  {
+    "id": "376",
+    "product_name": "Peacock's Pride Hathphool",
+    "profile_image": "https://www.ajnaajewels.com/media/catalog/product/l/h/lh5.jpg",
+    "product_cost": "3500"
+  },
+  {
+    "id": "377",
+    "product_name": "Golden Floret Sahara",
+    "profile_image": "https://www.ajnaajewels.com/media/catalog/product/l/k/lk1_4_1.jpg",
+    "product_cost": "850"
+  },
+  {
+    "id": "378",
+    "product_name": "Humble chained saharas",
+    "profile_image": "https://www.ajnaajewels.com/media/catalog/product/l/k/lk2_1.jpg",
+    "product_cost": "750"
+  },
+  {
+    "id": "379",
+    "product_name": "Gold Wave Kaan Saharas",
+    "profile_image": "https://www.ajnaajewels.com/media/catalog/product/l/k/lk3.jpg",
+    "product_cost": "1400"
+  },
+  {
+    "id": "380",
+    "product_name": "Droplets Kaan Saharas",
+    "profile_image": "https://www.ajnaajewels.com/media/catalog/product/l/k/lk4.jpg",
+    "product_cost": "1050"
+  },
+  {
+    "id": "381",
+    "product_name": "Stoned Saharas",
+    "profile_image": "https://www.ajnaajewels.com/media/catalog/product/l/k/lk5.jpg",
+    "product_cost": "1300"
+  },
+  {
+    "id": "382",
+    "product_name": "Green Bindiya Maang Tikka",
+    "profile_image": "https://www.ajnaajewels.com/media/catalog/product/l/m/lm11_1.jpg",
+    "product_cost": "1400"
+  },
+  {
+    "id": "383",
+    "product_name": "Lunar phase maang tikka",
+    "profile_image": "https://www.ajnaajewels.com/media/catalog/product/l/m/lm12_2.jpg",
+    "product_cost": "1800"
+  },
+  {
+    "id": "384",
+    "product_name": "Chandelior maang tikka",
+    "profile_image": "https://www.ajnaajewels.com/media/catalog/product/l/m/lm13.jpg",
+    "product_cost": "1700"
+  },
+  {
+    "id": "385",
+    "product_name": "Droplet Matha Patti",
+    "profile_image": "https://www.ajnaajewels.com/media/catalog/product/l/m/lm14_2.jpg",
+    "product_cost": "1400"
+  },
+  {
+    "id": "386",
+    "product_name": "Clover Matha Patti",
+    "profile_image": "https://www.ajnaajewels.com/media/catalog/product/l/m/lm15_2.jpg",
+    "product_cost": "1400"
+  },
+  {
+    "id": "387",
+    "product_name": "Ellipses Matha Patti",
+    "profile_image": "https://www.ajnaajewels.com/media/catalog/product/l/m/lm16_2.jpg",
+    "product_cost": "1400"
+  },
+  {
+    "id": "388",
+    "product_name": "Ellipses pearl matha patti",
+    "profile_image": "https://www.ajnaajewels.com/media/catalog/product/l/m/lm17_2.jpg",
+    "product_cost": "1400"
+  },
+  {
+    "id": "389",
+    "product_name": "Flower power maang tikka",
+    "profile_image": "https://www.ajnaajewels.com/media/catalog/product/l/m/lm18_2.jpg",
+    "product_cost": "1200"
+  },
+  {
+    "id": "390",
+    "product_name": "Green Floral Tikka",
+    "profile_image": "https://www.ajnaajewels.com/media/catalog/product/l/m/lm19_3_1.jpg",
+    "product_cost": "1400"
+  },
+  {
+    "id": "391",
+    "product_name": "Kundan & Pearl Layered Maang Tikka",
+    "profile_image": "https://www.ajnaajewels.com/media/catalog/product/l/m/lm2_1_1.jpg",
+    "product_cost": "1200"
+  },
+  {
+    "id": "392",
+    "product_name": "Layered floral tikka ",
+    "profile_image": "https://www.ajnaajewels.com/media/catalog/product/l/m/lm20_2.jpg",
+    "product_cost": "1400"
+  },
+  {
+    "id": "393",
+    "product_name": "Statement chaandni mathapatti",
+    "profile_image": "https://www.ajnaajewels.com/media/catalog/product/l/m/lm21_1.jpg",
+    "product_cost": "3800"
+  },
+  {
+    "id": "394",
+    "product_name": "Green edges tikka",
+    "profile_image": "https://www.ajnaajewels.com/media/catalog/product/l/m/lm22_2.jpg",
+    "product_cost": "1400"
+  },
+  {
+    "id": "395",
+    "product_name": "Dainty chaand matha patti",
+    "profile_image": "https://www.ajnaajewels.com/media/catalog/product/l/m/lm23.jpg",
+    "product_cost": "2100"
+  },
+  {
+    "id": "396",
+    "product_name": "Green hints foolpatti maang tikka ",
+    "profile_image": "https://www.ajnaajewels.com/media/catalog/product/l/m/lm24_3.jpg",
+    "product_cost": "1800"
+  },
+  {
+    "id": "397",
+    "product_name": "Golden Chandelier Mang Tikka",
+    "profile_image": "https://www.ajnaajewels.com/media/catalog/product/l/m/lm25_3.jpg",
+    "product_cost": "1450"
+  },
+  {
+    "id": "398",
+    "product_name": "Bindiya Mang Tikka ",
+    "profile_image": "https://www.ajnaajewels.com/media/catalog/product/l/m/lm26_1.jpg",
+    "product_cost": "1950"
+  },
+  {
+    "id": "399",
+    "product_name": "Redhead Maang Tikka",
+    "profile_image": "https://www.ajnaajewels.com/media/catalog/product/l/m/lm27.jpg",
+    "product_cost": "1600"
+  },
+  {
+    "id": "400",
+    "product_name": "Droptop Tikka",
+    "profile_image": "https://www.ajnaajewels.com/media/catalog/product/l/m/lm28.jpg",
+    "product_cost": "1250"
+  },
+  {
+    "id": "401",
+    "product_name": "Lunar Rounds Tikka",
+    "profile_image": "https://www.ajnaajewels.com/media/catalog/product/l/m/lm29.jpg",
+    "product_cost": "3800"
+  },
+  {
+    "id": "402",
+    "product_name": "Amrut Matha Patti",
+    "profile_image": "https://www.ajnaajewels.com/media/catalog/product/l/m/lm30_2.jpg",
+    "product_cost": "3800"
+  },
+  {
+    "id": "403",
+    "product_name": "Jwala Tikka",
+    "profile_image": "https://www.ajnaajewels.com/media/catalog/product/l/m/lm31.jpg",
+    "product_cost": "3100"
+  },
+  {
+    "id": "404",
+    "product_name": "Pinwheel Tikka",
+    "profile_image": "https://www.ajnaajewels.com/media/catalog/product/l/m/lm32_1.jpg",
+    "product_cost": "3100"
+  },
+  {
+    "id": "405",
+    "product_name": "Ornate Drops Mathapatti",
+    "profile_image": "https://www.ajnaajewels.com/media/catalog/product/l/m/lm33new.jpg",
+    "product_cost": "4100"
+  },
+  {
+    "id": "406",
+    "product_name": "Kamal Maang Tikka",
+    "profile_image": "https://www.ajnaajewels.com/media/catalog/product/l/m/lm34_rvp_1.jpg",
+    "product_cost": "4900"
+  },
+  {
+    "id": "407",
+    "product_name": "Green Passion Tikka",
+    "profile_image": "https://www.ajnaajewels.com/media/catalog/product/l/m/lm35.jpg",
+    "product_cost": "4200"
+  },
+  {
+    "id": "408",
+    "product_name": "Pink Bubble Pop Tikka",
+    "profile_image": "https://www.ajnaajewels.com/media/catalog/product/l/m/lm36.jpg",
+    "product_cost": "1850"
+  },
+  {
+    "id": "409",
+    "product_name": "Foolpatti Maang Tikka",
+    "profile_image": "https://www.ajnaajewels.com/media/catalog/product/l/m/lm5_1.jpg",
+    "product_cost": "1950"
+  },
+  {
+    "id": "410",
+    "product_name": "Pankhi maang tikka",
+    "profile_image": "https://www.ajnaajewels.com/media/catalog/product/l/m/lm6_1.jpg",
+    "product_cost": "1500"
+  },
+  {
+    "id": "411",
+    "product_name": "Fleur in Red tikka",
+    "profile_image": "https://www.ajnaajewels.com/media/catalog/product/l/m/lm7_1.jpg",
+    "product_cost": "1300"
+  },
+  {
+    "id": "412",
+    "product_name": "Gulaal tikka",
+    "profile_image": "https://www.ajnaajewels.com/media/catalog/product/l/m/lm8_1.jpg",
+    "product_cost": "1770"
+  },
+  {
+    "id": "413",
+    "product_name": "Green Pankhi Tikka",
+    "profile_image": "https://www.ajnaajewels.com/media/catalog/product/l/m/lm9_1.jpg",
+    "product_cost": "1200"
+  },
+  {
+    "id": "414",
+    "product_name": "Blue Meena Choker",
+    "profile_image": "https://www.ajnaajewels.com/media/catalog/product/l/n/ln100n.jpg",
+    "product_cost": "8900"
+  },
+  {
+    "id": "415",
+    "product_name": "Coral Tassel Necklace",
+    "profile_image": "https://www.ajnaajewels.com/media/catalog/product/l/n/ln104_2.jpg",
+    "product_cost": "1800"
+  },
+  {
+    "id": "416",
+    "product_name": "Flawless Pearl Affair Tassel Necklace",
+    "profile_image": "https://www.ajnaajewels.com/media/catalog/product/l/n/ln106n.jpg",
+    "product_cost": "2750"
+  },
+  {
+    "id": "417",
+    "product_name": "Vesonite Tassel Necklace",
+    "profile_image": "https://www.ajnaajewels.com/media/catalog/product/l/n/ln107_2.jpg",
+    "product_cost": "2650"
+  },
+  {
+    "id": "418",
+    "product_name": "Shades Of Green Tassel Necklace",
+    "profile_image": "https://www.ajnaajewels.com/media/catalog/product/l/n/ln110_2.jpg",
+    "product_cost": "2600"
+  },
+  {
+    "id": "419",
+    "product_name": "Mint And Smoke Necklace",
+    "profile_image": "https://www.ajnaajewels.com/media/catalog/product/l/n/ln114_2.jpg",
+    "product_cost": "2100"
+  },
+  {
+    "id": "420",
+    "product_name": "Golden Chain & Pearls Tassels Necklace",
+    "profile_image": "https://www.ajnaajewels.com/media/catalog/product/l/n/ln-115_3.jpg",
+    "product_cost": "2500"
+  },
+  {
+    "id": "421",
+    "product_name": "Dark Purple Rose Tassel Necklace",
+    "profile_image": "https://www.ajnaajewels.com/media/catalog/product/l/n/ln123_2.jpg",
+    "product_cost": "1950"
+  },
+  {
+    "id": "422",
+    "product_name": "Mighty Pearls Necklace",
+    "profile_image": "https://www.ajnaajewels.com/media/catalog/product/l/n/ln124_1result.jpg",
+    "product_cost": "2600"
+  },
+  {
+    "id": "423",
+    "product_name": "Three Line Necklace",
+    "profile_image": "https://www.ajnaajewels.com/media/catalog/product/l/n/ln125_2.jpg",
+    "product_cost": "3100"
+  },
+  {
+    "id": "424",
+    "product_name": "Peacock Aqua Necklace",
+    "profile_image": "https://www.ajnaajewels.com/media/catalog/product/l/n/ln131_2_1.jpg",
+    "product_cost": "4500"
+  },
+  {
+    "id": "425",
+    "product_name": "Squared Rubies Necklace",
+    "profile_image": "https://www.ajnaajewels.com/media/catalog/product/l/n/ln133_2.jpg",
+    "product_cost": "5500"
+  },
+  {
+    "id": "426",
+    "product_name": "Lotus In The Lake Necklace",
+    "profile_image": "https://www.ajnaajewels.com/media/catalog/product/l/n/ln134n.jpg",
+    "product_cost": "5950"
+  },
+  {
+    "id": "427",
+    "product_name": "Lotus in the snowy lake necklace",
+    "profile_image": "https://www.ajnaajewels.com/media/catalog/product/l/n/ln135n.jpg",
+    "product_cost": "5600"
+  },
+  {
+    "id": "428",
+    "product_name": "Emerald Green And Gold Necklace",
+    "profile_image": "https://www.ajnaajewels.com/media/catalog/product/l/n/ln136_3.jpg",
+    "product_cost": "3200"
+  },
+  {
+    "id": "429",
+    "product_name": "Kundan Elegance Choker",
+    "profile_image": "https://www.ajnaajewels.com/media/catalog/product/l/n/ln138_1result.jpg",
+    "product_cost": "5890"
+  },
+  {
+    "id": "430",
+    "product_name": "Pink Kundan choker",
+    "profile_image": "https://www.ajnaajewels.com/media/catalog/product/l/n/ln152_2.jpg",
+    "product_cost": "16000"
+  },
+  {
+    "id": "431",
+    "product_name": "Marsala pankhi necklace",
+    "profile_image": "https://www.ajnaajewels.com/media/catalog/product/l/n/ln157_result.jpg",
+    "product_cost": "4200"
+  },
+  {
+    "id": "432",
+    "product_name": "Kundan Monochrome Necklace Dual Metal Peacock Necklace",
+    "profile_image": "https://www.ajnaajewels.com/media/catalog/product/l/n/ln159_2.jpg",
+    "product_cost": "6300"
+  },
+  {
+    "id": "433",
+    "product_name": "Shades of love necklace",
+    "profile_image": "https://www.ajnaajewels.com/media/catalog/product/l/n/ln160_1.jpg",
+    "product_cost": "500"
+  },
+  {
+    "id": "434",
+    "product_name": "Triple the love necklace",
+    "profile_image": "https://www.ajnaajewels.com/media/catalog/product/l/n/ln163_1.jpg",
+    "product_cost": "750"
+  },
+  {
+    "id": "435",
+    "product_name": "Silver bar Necklace",
+    "profile_image": "https://www.ajnaajewels.com/media/catalog/product/l/n/ln166_1.jpg",
+    "product_cost": "500"
+  },
+  {
+    "id": "436",
+    "product_name": "Green passion choker",
+    "profile_image": "https://www.ajnaajewels.com/media/catalog/product/l/n/ln175_2.jpg",
+    "product_cost": "10000"
+  },
+  {
+    "id": "437",
+    "product_name": "Green Pankhi Necklace",
+    "profile_image": "https://www.ajnaajewels.com/media/catalog/product/l/n/ln177_2.jpg",
+    "product_cost": "3200"
+  },
+  {
+    "id": "438",
+    "product_name": "Red And Green Kundan Choker",
+    "profile_image": "https://www.ajnaajewels.com/media/catalog/product/l/n/ln180_5.jpg",
+    "product_cost": "17000"
+  },
+  {
+    "id": "439",
+    "product_name": "Green Hints Blue Choker",
+    "profile_image": "https://www.ajnaajewels.com/media/catalog/product/l/n/ln181.jpg",
+    "product_cost": "3210"
+  },
+  {
+    "id": "440",
+    "product_name": "Loaded Green Hints Blue Choker",
+    "profile_image": "https://www.ajnaajewels.com/media/catalog/product/l/n/ln182n.jpg",
+    "product_cost": "3210"
+  },
+  {
+    "id": "441",
+    "product_name": "Exotic Vibes Necklace",
+    "profile_image": "https://www.ajnaajewels.com/media/catalog/product/l/n/ln185_2.jpg",
+    "product_cost": "3800"
+  },
+  {
+    "id": "442",
+    "product_name": "Lemon Drops Choker",
+    "profile_image": "https://www.ajnaajewels.com/media/catalog/product/l/n/ln187_2.jpg",
+    "product_cost": "4900"
+  },
+  {
+    "id": "443",
+    "product_name": "Green coral necklace",
+    "profile_image": "https://www.ajnaajewels.com/media/catalog/product/l/n/ln189_2.jpg",
+    "product_cost": "5500"
+  },
+  {
+    "id": "444",
+    "product_name": "Red Mosaic choker",
+    "profile_image": "https://www.ajnaajewels.com/media/catalog/product/l/n/ln190_1_1.jpg",
+    "product_cost": "17000"
+  },
+  {
+    "id": "445",
+    "product_name": "Red Droplets Choker",
+    "profile_image": "https://www.ajnaajewels.com/media/catalog/product/l/n/ln191_2.jpg",
+    "product_cost": "17000"
+  },
+  {
+    "id": "446",
+    "product_name": "Nazaakat Choker",
+    "profile_image": "https://www.ajnaajewels.com/media/catalog/product/l/n/ln192_2.jpg",
+    "product_cost": "24050"
+  },
+  {
+    "id": "447",
+    "product_name": "Red rounds choker",
+    "profile_image": "https://www.ajnaajewels.com/media/catalog/product/l/n/ln194.jpg",
+    "product_cost": "4800"
+  },
+  {
+    "id": "448",
+    "product_name": "Green and red meena choker",
+    "profile_image": "https://www.ajnaajewels.com/media/catalog/product/l/n/ln195_2.jpg",
+    "product_cost": "4500"
+  },
+  {
+    "id": "449",
+    "product_name": "Standing tall green choker",
+    "profile_image": "https://www.ajnaajewels.com/media/catalog/product/l/n/ln196_1_1.jpg",
+    "product_cost": "4500"
+  },
+  {
+    "id": "450",
+    "product_name": "Statement Kundan Bridal Choker",
+    "profile_image": "https://www.ajnaajewels.com/media/catalog/product/l/n/ln198.jpg",
+    "product_cost": "22500"
+  },
+  {
+    "id": "451",
+    "product_name": "Violet Flowers Choker",
+    "profile_image": "https://www.ajnaajewels.com/media/catalog/product/l/n/ln199_2.jpg",
+    "product_cost": "6200"
+  },
+  {
+    "id": "452",
+    "product_name": "Assymmetric red rocks choker",
+    "profile_image": "https://www.ajnaajewels.com/media/catalog/product/l/n/ln200_2.jpg",
+    "product_cost": "4800"
+  },
+  {
+    "id": "453",
+    "product_name": "Smoked drops choker",
+    "profile_image": "https://www.ajnaajewels.com/media/catalog/product/l/n/ln201_2.jpg",
+    "product_cost": "4800"
+  },
+  {
+    "id": "454",
+    "product_name": "Earthy Kundan Choker",
+    "profile_image": "https://www.ajnaajewels.com/media/catalog/product/l/n/ln202_2.jpg",
+    "product_cost": "5200"
+  },
+  {
+    "id": "455",
+    "product_name": "Kundan round tripling choker",
+    "profile_image": "https://www.ajnaajewels.com/media/catalog/product/l/n/ln203_2.jpg",
+    "product_cost": "4800"
+  },
+  {
+    "id": "456",
+    "product_name": "Blue chanda necklace",
+    "profile_image": "https://www.ajnaajewels.com/media/catalog/product/l/n/ln204_2.jpg",
+    "product_cost": "4500"
+  },
+  {
+    "id": "457",
+    "product_name": "Pink stoned choker",
+    "profile_image": "https://www.ajnaajewels.com/media/catalog/product/l/n/ln205_2.jpg",
+    "product_cost": "4800"
+  },
+  {
+    "id": "458",
+    "product_name": "Coral flower choker",
+    "profile_image": "https://www.ajnaajewels.com/media/catalog/product/l/n/ln206.jpg",
+    "product_cost": "4200"
+  },
+  {
+    "id": "459",
+    "product_name": "Meanakari Essence Necklace",
+    "profile_image": "https://www.ajnaajewels.com/media/catalog/product/l/n/ln207.jpg",
+    "product_cost": "5800"
+  },
+  {
+    "id": "460",
+    "product_name": "Guldasta Choker",
+    "profile_image": "https://www.ajnaajewels.com/media/catalog/product/l/n/ln208.jpg",
+    "product_cost": "5800"
+  },
+  {
+    "id": "461",
+    "product_name": "Flying colours choker",
+    "profile_image": "https://www.ajnaajewels.com/media/catalog/product/l/n/ln209_2.jpg",
+    "product_cost": "8750"
+  },
+  {
+    "id": "462",
+    "product_name": "Cobalt Rani Necklace",
+    "profile_image": "https://www.ajnaajewels.com/media/catalog/product/l/n/ln212_2.jpg",
+    "product_cost": "2500"
+  },
+  {
+    "id": "463",
+    "product_name": "Jeweled Peacock Necklace",
+    "profile_image": "https://www.ajnaajewels.com/media/catalog/product/l/n/ln213_2.jpg",
+    "product_cost": "2800"
+  },
+  {
+    "id": "464",
+    "product_name": "Kundan Choker With Red Drops",
+    "profile_image": "https://www.ajnaajewels.com/media/catalog/product/l/n/ln226.jpg",
+    "product_cost": "7500"
+  },
+  {
+    "id": "465",
+    "product_name": "Coral  Long Necklace",
+    "profile_image": "https://www.ajnaajewels.com/media/catalog/product/l/n/ln228_2.jpg",
+    "product_cost": "1100"
+  },
+  {
+    "id": "466",
+    "product_name": "Violet Silver Necklace",
+    "profile_image": "https://www.ajnaajewels.com/media/catalog/product/l/n/ln229_2.jpg",
+    "product_cost": "1200"
+  },
+  {
+    "id": "467",
+    "product_name": "Twin Greys Necklace",
+    "profile_image": "https://www.ajnaajewels.com/media/catalog/product/l/n/ln230_2.jpg",
+    "product_cost": "1400"
+  },
+  {
+    "id": "468",
+    "product_name": "Grey Zircons Necklace",
+    "profile_image": "https://www.ajnaajewels.com/media/catalog/product/l/n/ln231.jpg",
+    "product_cost": "1200"
+  },
+  {
+    "id": "469",
+    "product_name": "Bouquet necklace",
+    "profile_image": "https://www.ajnaajewels.com/media/catalog/product/l/n/ln232_2.jpg",
+    "product_cost": "1200"
+  },
+  {
+    "id": "470",
+    "product_name": "Satin Glow Necklace",
+    "profile_image": "https://www.ajnaajewels.com/media/catalog/product/l/n/ln233_2.jpg",
+    "product_cost": "2800"
+  },
+  {
+    "id": "471",
+    "product_name": "Sky at sunrise necklace",
+    "profile_image": "https://www.ajnaajewels.com/media/catalog/product/l/n/ln234_2.jpg",
+    "product_cost": "3500"
+  },
+  {
+    "id": "472",
+    "product_name": "Summer shades necklace",
+    "profile_image": "https://www.ajnaajewels.com/media/catalog/product/l/n/ln235_2.jpg",
+    "product_cost": "2100"
+  },
+  {
+    "id": "473",
+    "product_name": "Pitaara Necklace",
+    "profile_image": "https://www.ajnaajewels.com/media/catalog/product/l/n/ln236_2.jpg",
+    "product_cost": "4500"
+  },
+  {
+    "id": "474",
+    "product_name": "Navratan Light Choker",
+    "profile_image": "https://www.ajnaajewels.com/media/catalog/product/l/n/ln237.jpg",
+    "product_cost": "11000"
+  },
+  {
+    "id": "475",
+    "product_name": "Rose Quartz Pendant With Moti Mala",
+    "profile_image": "https://www.ajnaajewels.com/media/catalog/product/l/n/ln238_2.jpg",
+    "product_cost": "2200"
+  },
+  {
+    "id": "476",
+    "product_name": "Dark Blue And Red Choker",
+    "profile_image": "https://www.ajnaajewels.com/media/catalog/product/l/n/ln239_2.jpg",
+    "product_cost": "8000"
+  },
+  {
+    "id": "477",
+    "product_name": "Cool Breeze Zircon Necklace ",
+    "profile_image": "https://www.ajnaajewels.com/media/catalog/product/l/n/ln240.jpg",
+    "product_cost": "1200"
+  },
+  {
+    "id": "478",
+    "product_name": "Turquoise And Gold Engraved Necklace",
+    "profile_image": "https://www.ajnaajewels.com/media/catalog/product/l/n/ln241.jpg",
+    "product_cost": "1200"
+  },
+  {
+    "id": "479",
+    "product_name": "Bud Necklace",
+    "profile_image": "https://www.ajnaajewels.com/media/catalog/product/l/n/ln241_2.jpg",
+    "product_cost": "2700"
+  },
+  {
+    "id": "480",
+    "product_name": "Mint And Purple String",
+    "profile_image": "https://www.ajnaajewels.com/media/catalog/product/l/n/ln245.jpg",
+    "product_cost": "1200"
+  },
+  {
+    "id": "481",
+    "product_name": "Silver Pinks String",
+    "profile_image": "https://www.ajnaajewels.com/media/catalog/product/l/n/ln246.jpg",
+    "product_cost": "1200"
+  },
+  {
+    "id": "482",
+    "product_name": "Feroza And Purple String",
+    "profile_image": "https://www.ajnaajewels.com/media/catalog/product/l/n/ln247.jpg",
+    "product_cost": "1200"
+  },
+  {
+    "id": "483",
+    "product_name": "Peppermint Necklace",
+    "profile_image": "https://www.ajnaajewels.com/media/catalog/product/l/n/ln248.jpg",
+    "product_cost": "1200"
+  },
+  {
+    "id": "484",
+    "product_name": "Pearl Blush Necklace",
+    "profile_image": "https://www.ajnaajewels.com/media/catalog/product/l/n/ln250_1.jpg",
+    "product_cost": "1200"
+  },
+  {
+    "id": "485",
+    "product_name": "Temple Street Necklace",
+    "profile_image": "https://www.ajnaajewels.com/media/catalog/product/l/n/ln251_1.jpg",
+    "product_cost": "3800"
+  },
+  {
+    "id": "486",
+    "product_name": "Jamun Necklace",
+    "profile_image": "https://www.ajnaajewels.com/media/catalog/product/l/n/ln252_1.jpg",
+    "product_cost": "3800"
+  },
+  {
+    "id": "487",
+    "product_name": "Black Forest Necklace",
+    "profile_image": "https://www.ajnaajewels.com/media/catalog/product/l/n/ln253_1.jpg",
+    "product_cost": "3800"
+  },
+  {
+    "id": "488",
+    "product_name": "Gold Feroza String",
+    "profile_image": "https://www.ajnaajewels.com/media/catalog/product/l/n/ln254_1_1.jpg",
+    "product_cost": "1200"
+  },
+  {
+    "id": "489",
+    "product_name": "Exotic Vibes With A Twist",
+    "profile_image": "https://www.ajnaajewels.com/media/catalog/product/l/n/ln255_1_2_.jpg",
+    "product_cost": "3100"
+  },
+  {
+    "id": "490",
+    "product_name": "Embellished Paisley Necklace",
+    "profile_image": "https://www.ajnaajewels.com/media/catalog/product/l/n/ln256.jpg",
+    "product_cost": "6500"
+  },
+  {
+    "id": "491",
+    "product_name": "Prussian Passion Choker",
+    "profile_image": "https://www.ajnaajewels.com/media/catalog/product/l/n/ln257_2.jpg",
+    "product_cost": "5200"
+  },
+  {
+    "id": "492",
+    "product_name": "Red Raani Choker",
+    "profile_image": "https://www.ajnaajewels.com/media/catalog/product/l/n/ln258.jpg",
+    "product_cost": "9500"
+  },
+  {
+    "id": "493",
+    "product_name": "Red And Green Flower Kundan Choker",
+    "profile_image": "https://www.ajnaajewels.com/media/catalog/product/l/n/ln259.jpg",
+    "product_cost": "9500"
+  },
+  {
+    "id": "494",
+    "product_name": "Pankhi Mix Choker",
+    "profile_image": "https://www.ajnaajewels.com/media/catalog/product/l/n/ln260.jpg",
+    "product_cost": "8500"
+  },
+  {
+    "id": "495",
+    "product_name": "Nizami Emerald Choker",
+    "profile_image": "https://www.ajnaajewels.com/media/catalog/product/l/n/ln261_4.jpg",
+    "product_cost": "10500"
+  },
+  {
+    "id": "496",
+    "product_name": "Blush Jadai Necklace",
+    "profile_image": "https://www.ajnaajewels.com/media/catalog/product/l/n/ln263.jpg",
+    "product_cost": "19500"
+  },
+  {
+    "id": "497",
+    "product_name": "Statement Red Pendant Haar",
+    "profile_image": "https://www.ajnaajewels.com/media/catalog/product/l/n/ln265_1.jpg",
+    "product_cost": "4800"
+  },
+  {
+    "id": "498",
+    "product_name": "Polki Emerald Necklace",
+    "profile_image": "https://www.ajnaajewels.com/media/catalog/product/l/n/ln271_result.jpg",
+    "product_cost": "21000"
+  },
+  {
+    "id": "499",
+    "product_name": "Jadai Jewel necklace",
+    "profile_image": "https://www.ajnaajewels.com/media/catalog/product/l/n/ln272.jpg",
+    "product_cost": "32000"
+  },
+  {
+    "id": "500",
+    "product_name": "Bandhej Long Necklace",
+    "profile_image": "https://www.ajnaajewels.com/media/catalog/product/l/n/ln273.jpg",
+    "product_cost": "45000"
+  },
+  {
+    "id": "501",
+    "product_name": "Tourmaline Tradition Necklace",
+    "profile_image": "https://www.ajnaajewels.com/media/catalog/product/l/n/ln274_rvp.jpg",
+    "product_cost": "35000"
+  },
+  {
+    "id": "502",
+    "product_name": "Navratna Polki choker",
+    "profile_image": "https://www.ajnaajewels.com/media/catalog/product/l/n/ln275_1_.jpg",
+    "product_cost": "32000"
+  },
+  {
+    "id": "503",
+    "product_name": "Golden Goddess Necklace",
+    "profile_image": "https://www.ajnaajewels.com/media/catalog/product/l/n/ln276.jpg",
+    "product_cost": "22000"
+  },
+  {
+    "id": "504",
+    "product_name": "Snow White Necklace",
+    "profile_image": "https://www.ajnaajewels.com/media/catalog/product/l/n/ln277.jpg",
+    "product_cost": "3500"
+  },
+  {
+    "id": "505",
+    "product_name": "Gold Pankhi Necklace",
+    "profile_image": "https://www.ajnaajewels.com/media/catalog/product/l/n/ln278.jpg",
+    "product_cost": "4800"
+  },
+  {
+    "id": "506",
+    "product_name": "Gulabi Grace Necklace",
+    "profile_image": "https://www.ajnaajewels.com/media/catalog/product/l/n/ln279.jpg",
+    "product_cost": "5100"
+  },
+  {
+    "id": "507",
+    "product_name": "Green Sunflower Necklace",
+    "profile_image": "https://www.ajnaajewels.com/media/catalog/product/l/n/ln280.jpg",
+    "product_cost": "5500"
+  },
+  {
+    "id": "508",
+    "product_name": "Black Meena Choker",
+    "profile_image": "https://www.ajnaajewels.com/media/catalog/product/l/n/ln281.jpg",
+    "product_cost": "8500"
+  },
+  {
+    "id": "509",
+    "product_name": "Amethyst Matang necklace",
+    "profile_image": "https://www.ajnaajewels.com/media/catalog/product/l/n/ln282.jpg",
+    "product_cost": "6100"
+  },
+  {
+    "id": "510",
+    "product_name": "Red Pankhi Kundan Choker",
+    "profile_image": "https://www.ajnaajewels.com/media/catalog/product/l/n/ln283.jpg",
+    "product_cost": "4800"
+  },
+  {
+    "id": "511",
+    "product_name": "Pankhuri Choker",
+    "profile_image": "https://www.ajnaajewels.com/media/catalog/product/l/n/ln285.jpg",
+    "product_cost": "8500"
+  },
+  {
+    "id": "512",
+    "product_name": "Leafy Droplet Necklace",
+    "profile_image": "https://www.ajnaajewels.com/media/catalog/product/l/n/ln287.jpg",
+    "product_cost": "20700"
+  },
+  {
+    "id": "513",
+    "product_name": "Krishna Leela Necklace",
+    "profile_image": "https://www.ajnaajewels.com/media/catalog/product/l/n/ln288.jpg",
+    "product_cost": "6500"
+  },
+  {
+    "id": "514",
+    "product_name": "Ethnic Kundan Choker",
+    "profile_image": "https://www.ajnaajewels.com/media/catalog/product/l/n/ln289.jpg",
+    "product_cost": "10500"
+  },
+  {
+    "id": "515",
     "product_name": "Emerald Lunar Choker",
-    "product_cost": "9500",
-    "profile_image": "https://www.ajnaajewels.com/media/catalog/product/cache/small_image/300x400/beff4985b56e3afdbeabfc89641a4582/l/n/ln290_1.jpg"
+    "profile_image": "https://www.ajnaajewels.com/media/catalog/product/l/n/ln290_1.jpg",
+    "product_cost": "9500"
+  },
+  {
+    "id": "516",
+    "product_name": "Aubergine rose Beaded Necklace",
+    "profile_image": "https://www.ajnaajewels.com/media/catalog/product/l/n/ln44_3_1.jpg",
+    "product_cost": "2600"
+  },
+  {
+    "id": "517",
+    "product_name": "Coral Clouds String",
+    "profile_image": "https://www.ajnaajewels.com/media/catalog/product/l/n/ln442.jpg",
+    "product_cost": "1200"
+  },
+  {
+    "id": "518",
+    "product_name": "Earthen String",
+    "profile_image": "https://www.ajnaajewels.com/media/catalog/product/l/n/ln443.jpg",
+    "product_cost": "1200"
+  },
+  {
+    "id": "519",
+    "product_name": "Mint Green Zircon Necklace",
+    "profile_image": "https://www.ajnaajewels.com/media/catalog/product/l/n/ln55.jpg",
+    "product_cost": "3200"
+  },
+  {
+    "id": "520",
+    "product_name": "Mint Green Tassel Necklace",
+    "profile_image": "https://www.ajnaajewels.com/media/catalog/product/l/n/ln58_1.jpg",
+    "product_cost": "3200"
+  },
+  {
+    "id": "521",
+    "product_name": "Rose Quartz Tassel Necklace",
+    "profile_image": "https://www.ajnaajewels.com/media/catalog/product/l/n/ln59_2.jpg",
+    "product_cost": "3200"
+  },
+  {
+    "id": "522",
+    "product_name": "Shades Of Blue Necklace",
+    "profile_image": "https://www.ajnaajewels.com/media/catalog/product/l/n/ln84_1_1.jpg",
+    "product_cost": "3200"
+  },
+  {
+    "id": "523",
+    "product_name": "Dark Green & Gold String Necklace",
+    "profile_image": "https://www.ajnaajewels.com/media/catalog/product/l/n/ln86_2_1.jpg",
+    "product_cost": "2700"
+  },
+  {
+    "id": "524",
+    "product_name": "Long Barium Necklace",
+    "profile_image": "https://www.ajnaajewels.com/media/catalog/product/l/n/ln88_1.jpg",
+    "product_cost": "3200"
+  },
+  {
+    "id": "525",
+    "product_name": "Barium & Pearl String Necklace",
+    "profile_image": "https://www.ajnaajewels.com/media/catalog/product/l/n/ln89_1_1.jpg",
+    "product_cost": "1950"
+  },
+  {
+    "id": "526",
+    "product_name": "Pink Blush Necklace",
+    "profile_image": "https://www.ajnaajewels.com/media/catalog/product/l/n/ln90_1_1.jpg",
+    "product_cost": "2800"
+  },
+  {
+    "id": "527",
+    "product_name": "Emerald Hues Panchlada Necklace",
+    "profile_image": "https://www.ajnaajewels.com/media/catalog/product/l/n/ln93.jpg",
+    "product_cost": "5200"
+  },
+  {
+    "id": "528",
+    "product_name": "Barium Three Line Kundan Necklace",
+    "profile_image": "https://www.ajnaajewels.com/media/catalog/product/l/n/ln95.jpg",
+    "product_cost": "15000"
+  },
+  {
+    "id": "529",
+    "product_name": "Forested Ring",
+    "profile_image": "https://www.ajnaajewels.com/media/catalog/product/l/r/lr14_2.jpg",
+    "product_cost": "1050"
+  },
+  {
+    "id": "530",
+    "product_name": "Green Mandala Ring",
+    "profile_image": "https://www.ajnaajewels.com/media/catalog/product/l/r/lr15.jpg",
+    "product_cost": "1190"
+  },
+  {
+    "id": "531",
+    "product_name": "All white kundan ring",
+    "profile_image": "https://www.ajnaajewels.com/media/catalog/product/l/r/lr19_2.jpg",
+    "product_cost": "850"
+  },
+  {
+    "id": "532",
+    "product_name": "Double petals ring",
+    "profile_image": "https://www.ajnaajewels.com/media/catalog/product/l/r/lr23_2.jpg",
+    "product_cost": "850"
+  },
+  {
+    "id": "533",
+    "product_name": "Gold Green Ring",
+    "profile_image": "https://www.ajnaajewels.com/media/catalog/product/l/r/lr26_2.jpg",
+    "product_cost": "750"
+  },
+  {
+    "id": "534",
+    "product_name": "Kundan Flower Ring",
+    "profile_image": "https://www.ajnaajewels.com/media/catalog/product/l/r/lr27_2.jpg",
+    "product_cost": "1200"
+  },
+  {
+    "id": "535",
+    "product_name": "Golden Sun Ring ",
+    "profile_image": "https://www.ajnaajewels.com/media/catalog/product/l/r/lr28_2.jpg",
+    "product_cost": "850"
+  },
+  {
+    "id": "536",
+    "product_name": "Red Kundan Flower Ring",
+    "profile_image": "https://www.ajnaajewels.com/media/catalog/product/l/r/lr29_2.jpg",
+    "product_cost": "1500"
+  },
+  {
+    "id": "537",
+    "product_name": "Cubic Green Ring ",
+    "profile_image": "https://www.ajnaajewels.com/media/catalog/product/l/r/lr30.jpg",
+    "product_cost": "1050"
+  },
+  {
+    "id": "538",
+    "product_name": "Green Sitaara Ring",
+    "profile_image": "https://www.ajnaajewels.com/media/catalog/product/l/r/lr31.jpg",
+    "product_cost": "850"
+  },
+  {
+    "id": "539",
+    "product_name": "Red Sitaara Ring",
+    "profile_image": "https://www.ajnaajewels.com/media/catalog/product/l/r/lr32.jpg",
+    "product_cost": "850"
+  },
+  {
+    "id": "540",
+    "product_name": "White Streak Ring",
+    "profile_image": "https://www.ajnaajewels.com/media/catalog/product/l/r/lr33.jpg",
+    "product_cost": "950"
+  },
+  {
+    "id": "541",
+    "product_name": "Green Hexes Ring",
+    "profile_image": "https://www.ajnaajewels.com/media/catalog/product/l/r/lr34.jpg",
+    "product_cost": "750"
+  },
+  {
+    "id": "542",
+    "product_name": "Feroza Flower Ring",
+    "profile_image": "https://www.ajnaajewels.com/media/catalog/product/l/r/lr35.jpg",
+    "product_cost": "1050"
+  },
+  {
+    "id": "543",
+    "product_name": "Green Cube Ring",
+    "profile_image": "https://www.ajnaajewels.com/media/catalog/product/l/r/lr36.jpg",
+    "product_cost": "1050"
+  },
+  {
+    "id": "544",
+    "product_name": "Red Waves Ring",
+    "profile_image": "https://www.ajnaajewels.com/media/catalog/product/l/r/lr37.jpg",
+    "product_cost": "1050"
+  },
+  {
+    "id": "545",
+    "product_name": "Red Flower Ring",
+    "profile_image": "https://www.ajnaajewels.com/media/catalog/product/l/r/lr38_1.jpg",
+    "product_cost": "1050"
+  },
+  {
+    "id": "546",
+    "product_name": "Trillion Flower Ring",
+    "profile_image": "https://www.ajnaajewels.com/media/catalog/product/l/r/lr39.jpg",
+    "product_cost": "1050"
+  },
+  {
+    "id": "547",
+    "product_name": "Asymmetric Ring",
+    "profile_image": "https://www.ajnaajewels.com/media/catalog/product/l/r/lr48_1.jpg",
+    "product_cost": "1500"
+  },
+  {
+    "id": "548",
+    "product_name": "Purple Maroon Mandala Ring",
+    "profile_image": "https://www.ajnaajewels.com/media/catalog/product/l/r/lr6n.jpg",
+    "product_cost": "2500"
+  },
+  {
+    "id": "549",
+    "product_name": "Mini Kundan Pearl Earrings",
+    "profile_image": "https://www.ajnaajewels.com/media/catalog/product/l/s/lse48_1_1.jpg",
+    "product_cost": "450"
+  },
+  {
+    "id": "550",
+    "product_name": "Smoke Pink Earrings",
+    "profile_image": "https://www.ajnaajewels.com/media/catalog/product/l/s/lse66.jpg",
+    "product_cost": "1500"
+  },
+  {
+    "id": "551",
+    "product_name": "Classic Kundan Drops",
+    "profile_image": "https://www.ajnaajewels.com/media/catalog/product/l/s/lse74_1_1.jpg",
+    "product_cost": "1150"
+  },
+  {
+    "id": "552",
+    "product_name": "Double String Kundan & Pearl Necklace",
+    "profile_image": "https://www.ajnaajewels.com/media/catalog/product/n/1/n1_result.jpg",
+    "product_cost": "2800"
+  },
+  {
+    "id": "553",
+    "product_name": "Kundan chain Necklace",
+    "profile_image": "https://www.ajnaajewels.com/media/catalog/product/n/1/n12_2_result.jpg",
+    "product_cost": "3800"
+  },
+  {
+    "id": "554",
+    "product_name": "Double Layered Purple Stone & Pearl Necklace",
+    "profile_image": "https://www.ajnaajewels.com/media/catalog/product/n/4/n4_1.jpg",
+    "product_cost": "3500"
+  },
+  {
+    "id": "555",
+    "product_name": "Flower And Moon Nath",
+    "profile_image": "https://www.ajnaajewels.com/media/catalog/product/n/t/nt1_1_1.jpg",
+    "product_cost": "1200"
+  },
+  {
+    "id": "556",
+    "product_name": "Mogra Garland Nath",
+    "profile_image": "https://www.ajnaajewels.com/media/catalog/product/n/t/nt3.jpg",
+    "product_cost": "1400"
+  },
+  {
+    "id": "557",
+    "product_name": "Mountaineer Green Rakhi",
+    "profile_image": "https://www.ajnaajewels.com/media/catalog/product/r/c/rc1.jpg",
+    "product_cost": "250"
+  },
+  {
+    "id": "558",
+    "product_name": "Opal Rakhi",
+    "profile_image": "https://www.ajnaajewels.com/media/catalog/product/r/c/rc10.jpg",
+    "product_cost": "250"
+  },
+  {
+    "id": "559",
+    "product_name": "Seedling Rakhi",
+    "profile_image": "https://www.ajnaajewels.com/media/catalog/product/r/c/rc11.jpg",
+    "product_cost": "300"
+  },
+  {
+    "id": "560",
+    "product_name": "Radical Rakhi",
+    "profile_image": "https://www.ajnaajewels.com/media/catalog/product/r/c/rc12.jpg",
+    "product_cost": "300"
+  },
+  {
+    "id": "561",
+    "product_name": "Beach Please Rakhi",
+    "profile_image": "https://www.ajnaajewels.com/media/catalog/product/r/c/rc13.jpg",
+    "product_cost": "300"
+  },
+  {
+    "id": "562",
+    "product_name": "Citrus Rakhi",
+    "profile_image": "https://www.ajnaajewels.com/media/catalog/product/r/c/rc14_1_result.jpg",
+    "product_cost": "350"
+  },
+  {
+    "id": "563",
+    "product_name": "Fixed It Rakhi",
+    "profile_image": "https://www.ajnaajewels.com/media/catalog/product/r/c/rc15_1_result.jpg",
+    "product_cost": "300"
+  },
+  {
+    "id": "564",
+    "product_name": "Biker Rakhi",
+    "profile_image": "https://www.ajnaajewels.com/media/catalog/product/r/c/rc16_1_result.jpg",
+    "product_cost": "250"
+  },
+  {
+    "id": "565",
+    "product_name": "Woodbits rakhi",
+    "profile_image": "https://www.ajnaajewels.com/media/catalog/product/r/c/rc17_1_1.jpg",
+    "product_cost": "250"
+  },
+  {
+    "id": "566",
+    "product_name": "Rough Tough Rakhi",
+    "profile_image": "https://www.ajnaajewels.com/media/catalog/product/r/c/rc18_1_result.jpg",
+    "product_cost": "250"
+  },
+  {
+    "id": "567",
+    "product_name": "Puzzled Rakhi",
+    "profile_image": "https://www.ajnaajewels.com/media/catalog/product/r/c/rc19_1_result.jpg",
+    "product_cost": "250"
+  },
+  {
+    "id": "568",
+    "product_name": "Treasurer Rakhi",
+    "profile_image": "https://www.ajnaajewels.com/media/catalog/product/r/c/rc2.jpg",
+    "product_cost": "250"
+  },
+  {
+    "id": "569",
+    "product_name": "Winged Rakhi",
+    "profile_image": "https://www.ajnaajewels.com/media/catalog/product/r/c/rc20_1_result.jpg",
+    "product_cost": "250"
+  },
+  {
+    "id": "570",
+    "product_name": "Spiritual Rakhi",
+    "profile_image": "https://www.ajnaajewels.com/media/catalog/product/r/c/rc3.jpg",
+    "product_cost": "250"
+  },
+  {
+    "id": "571",
+    "product_name": "Dune Dasher Rakhi",
+    "profile_image": "https://www.ajnaajewels.com/media/catalog/product/r/c/rc4.jpg",
+    "product_cost": "250"
+  },
+  {
+    "id": "572",
+    "product_name": "Mountaineer Yellow Rakhi",
+    "profile_image": "https://www.ajnaajewels.com/media/catalog/product/r/c/rc5.jpg",
+    "product_cost": "250"
+  },
+  {
+    "id": "573",
+    "product_name": "Diver Rakhi",
+    "profile_image": "https://www.ajnaajewels.com/media/catalog/product/r/c/rc6.jpg",
+    "product_cost": "250"
+  },
+  {
+    "id": "574",
+    "product_name": "Sacred Bond Rakhi",
+    "profile_image": "https://www.ajnaajewels.com/media/catalog/product/r/c/rc7_1.jpg",
+    "product_cost": "250"
+  },
+  {
+    "id": "575",
+    "product_name": "Diver Red Rakhi",
+    "profile_image": "https://www.ajnaajewels.com/media/catalog/product/r/c/rc8.jpg",
+    "product_cost": "250"
+  },
+  {
+    "id": "576",
+    "product_name": "Rocky Road Rakhi",
+    "profile_image": "https://www.ajnaajewels.com/media/catalog/product/r/c/rc9.jpg",
+    "product_cost": "250"
+  },
+  {
+    "id": "577",
+    "product_name": "Kundan Intricate Necklace",
+    "profile_image": "https://www.ajnaajewels.com/media/catalog/product/u/n/untitled-1_1.jpg",
+    "product_cost": "4900"
+  },
+  {
+    "id": "578",
+    "product_name": "Mini Zircon Pearl Danglers",
+    "profile_image": "https://www.ajnaajewels.com/media/catalog/product/z/o/zoomed_in.jpg",
+    "product_cost": "650"
   }
 ]
