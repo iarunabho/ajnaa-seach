@@ -49,7 +49,6 @@
             $("#filter-records").html("");
             return;
           }
-
           var regex = new RegExp(searchField, "i");
           var output = '<div class="row">';
           var count = 1;
@@ -71,7 +70,9 @@
               output += '<p id="p1">' + val.product_url + "</p>";
               output += "</div>";
               output += "</div>";
-
+              if (count % 2 == 0) {
+                output += '</div><div class="row">';
+              }
               count++;
             }
           });
